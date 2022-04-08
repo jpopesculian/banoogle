@@ -27,8 +27,15 @@ fn fetch_registry() {
 
     for bang in bangs.iter_mut() {
         if bang.domain == "duckduckgo.com" {
-            bang.domain = "google.com".to_string();
-            bang.url = bang.url.replacen("duckduckgo.com", "google.com", 1);
+            if let Ok(mut url) = url::Url::parse(&bang.url) {
+                if url.path().is_empty() {
+                    url.set_host(Some("google.com"))
+                        .expect("Could not set host");
+                    url.set_path("search");
+                }
+                bang.url = url.to_string();
+                bang.domain = "google.com".to_string();
+            }
         }
     }
 
