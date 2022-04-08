@@ -708,7 +708,7 @@
     "s": "4chan",
     "sc": "Images",
     "t": "4chan",
-    "u": "https://duckduckgo.com/?q={{{s}}}+site%3A4chan.org&t=ffsb"
+    "u": "https://google.com/search?q={{{s}}}+site%3A4chan.org&t=ffsb"
   },
   {
     "c": "Entertainment",
@@ -1284,7 +1284,7 @@
     "s": "DuckDuckGo",
     "sc": "Search (DDG)",
     "t": "?",
-    "u": "http://duckduckgo.com/?q={{{s}}}"
+    "u": "http://google.com/search?q={{{s}}}"
   },
   {
     "c": "News",
@@ -1608,7 +1608,7 @@
     "s": "Aamulehti",
     "sc": "Magazine",
     "t": "aamulehti",
-    "u": "https://duckduckgo.com/?sites=www.aamulehti.fi&kh=1&q={{{s}}}&ia=web"
+    "u": "https://google.com/search?sites=www.aamulehti.fi&kh=1&q={{{s}}}&ia=web"
   },
   {
     "c": "Tech",
@@ -2697,7 +2697,7 @@
     "s": "Adventure Rider",
     "sc": "Forum",
     "t": "adv",
-    "u": "https://duckduckgo.com/?q=site%3Aadvrider.com+{{{s}}}"
+    "u": "https://google.com/search?q=site%3Aadvrider.com+{{{s}}}"
   },
   {
     "c": "Shopping",
@@ -2796,7 +2796,7 @@
     "s": "aeris - imirhil.fr",
     "sc": "Blogs",
     "t": "aeris",
-    "u": "https://duckduckgo.com/?q=site%3Aimirhil.fr+{{{s}}}"
+    "u": "https://google.com/search?q=site%3Aimirhil.fr+{{{s}}}"
   },
   {
     "c": "Shopping",
@@ -2985,7 +2985,7 @@
     "s": "The Annotated Grateful Dead Lyrics",
     "sc": "Music (Lyrics)",
     "t": "agdl",
-    "u": "http://duckduckgo.com/?q={{{s}}}+site:artsites.ucsc.edu/GDead/agdl/+!"
+    "u": "http://google.com/search?q={{{s}}}+site:artsites.ucsc.edu/GDead/agdl/+!"
   },
   {
     "c": "Shopping",
@@ -5109,7 +5109,7 @@
     "s": "analyse-R",
     "sc": "Academic",
     "t": "analyser",
-    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Ahttp%3A%2F%2Flarmarange.github.io%2Fanalyse-R"
+    "u": "https://google.com/search?q={{{s}}}+site%3Ahttp%3A%2F%2Flarmarange.github.io%2Fanalyse-R"
   },
   {
     "c": "Tech",
@@ -5253,7 +5253,7 @@
     "s": "Angular",
     "sc": "Libraries/Frameworks",
     "t": "ang",
-    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Aangular.io"
+    "u": "https://google.com/search?q={{{s}}}+site%3Aangular.io"
   },
   {
     "c": "Shopping",
@@ -5872,7 +5872,7 @@
     "s": "Apache Docs",
     "sc": "Sysadmin",
     "t": "apache",
-    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Ahttps%3A%2F%2Fhttpd.apache.org%2Fdocs%2Fcurrent%2F"
+    "u": "https://google.com/search?q={{{s}}}+site%3Ahttps%3A%2F%2Fhttpd.apache.org%2Fdocs%2Fcurrent%2F"
   },
   {
     "c": "Tech",
@@ -6005,7 +6005,7 @@
     "s": "API Platform",
     "sc": "Libraries/Frameworks",
     "t": "apiplatform",
-    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Aapi-platform.com&t=canonical&ia=web"
+    "u": "https://google.com/search?q={{{s}}}+site%3Aapi-platform.com&t=canonical&ia=web"
   },
   {
     "c": "Multimedia",
@@ -6383,7 +6383,7 @@
     "s": "Apple Trailers",
     "sc": "Movies",
     "t": "appletrailer",
-    "u": "http://duckduckgo.com/?q=site:trailers.apple.com%20{{{s}}}"
+    "u": "http://google.com/search?q=site:trailers.apple.com%20{{{s}}}"
   },
   {
     "c": "Entertainment",
@@ -6392,7 +6392,7 @@
     "s": "Apple TV",
     "sc": "TV",
     "t": "appletv",
-    "u": "https://duckduckgo.com/?q={{{s}}}%20site%3Atv.apple.com"
+    "u": "https://google.com/search?q={{{s}}}%20site%3Atv.apple.com"
   },
   {
     "c": "Tech",
@@ -7022,7 +7022,7 @@
     "s": "Arduino Reference",
     "sc": "Languages (c++)",
     "t": "arduinoreference",
-    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Aarduino.cc&ia=web"
+    "u": "https://google.com/search?q={{{s}}}+site%3Aarduino.cc&ia=web"
   },
   {
     "c": "Research",
@@ -7058,7 +7058,7 @@
     "s": "ar15.com",
     "sc": "Social",
     "t": "arf",
-    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Aar15.com&ia=web"
+    "u": "https://google.com/search?q={{{s}}}+site%3Aar15.com&ia=web"
   },
   {
     "c": "Online Services",
@@ -7814,7 +7814,7 @@
     "s": "Asterisk Wiki",
     "sc": "Sysadmin",
     "t": "asterisk",
-    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Awiki.asterisk.org&ia=web"
+    "u": "https://google.com/search?q={{{s}}}+site%3Awiki.asterisk.org&ia=web"
   },
   {
     "c": "Online Services",
@@ -9326,7 +9326,7 @@
     "s": "Bambali",
     "sc": "Online (marketplace)",
     "t": "bambali",
-    "u": "https://duckduckgo.com/?q=site%3Abambali.net+{{{s}}}"
+    "u": "https://google.com/search?q=site%3Abambali.net+{{{s}}}"
   },
   {
     "c": "Research",
@@ -9411,7 +9411,7 @@
   },
   {
     "c": "Online Services",
-    "d": "google.com",
+    "d": "duckduckgo.com",
     "r": 803,
     "s": "Search all !bangs",
     "sc": "Search (DDG)",
@@ -9506,7 +9506,7 @@
     "s": "Lycée Louis Bascan",
     "sc": "Learning",
     "t": "bascan",
-    "u": "http://duckduckgo.com/?q={{{s}}}+site:www.lyc-bascan-rambouillet.ac-versailles.fr"
+    "u": "http://google.com/search?q={{{s}}}+site:www.lyc-bascan-rambouillet.ac-versailles.fr"
   },
   {
     "c": "Research",
@@ -9560,7 +9560,7 @@
     "s": "Bash",
     "sc": "Programming",
     "t": "bash",
-    "u": "http://duckduckgo.com/?q={{{s}}}+site:mywiki.wooledge.org,wiki.bash-hackers.org"
+    "u": "http://google.com/search?q={{{s}}}+site:mywiki.wooledge.org,wiki.bash-hackers.org"
   },
   {
     "c": "Entertainment",
@@ -9632,7 +9632,7 @@
     "s": "Bay12Games",
     "sc": "Games (offline)",
     "t": "bay12",
-    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Abay12games.com"
+    "u": "https://google.com/search?q={{{s}}}+site%3Abay12games.com"
   },
   {
     "c": "Shopping",
@@ -12378,7 +12378,7 @@
     "s": "DuckDuckGo blog",
     "sc": "Blogs",
     "t": "blog",
-    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Aduck.co%2Fblog"
+    "u": "https://google.com/search?q={{{s}}}+site%3Aduck.co%2Fblog"
   },
   {
     "c": "News",
@@ -13251,7 +13251,7 @@
     "s": "Battle of the Bits",
     "sc": "Music",
     "t": "botb",
-    "u": "https://duckduckgo.com/?q=site%3Abattleofthebits.org+{{{s}}}"
+    "u": "https://google.com/search?q=site%3Abattleofthebits.org+{{{s}}}"
   },
   {
     "c": "Tech",
@@ -13854,7 +13854,7 @@
     "s": "BroadSign",
     "sc": "General",
     "t": "broadsign",
-    "u": "https://duckduckgo.com/?q=site%3Abroadsign.com+{{{s}}}"
+    "u": "https://google.com/search?q=site%3Abroadsign.com+{{{s}}}"
   },
   {
     "c": "Research",
@@ -15132,7 +15132,7 @@
     "s": "DuckDuckGo Calculator",
     "sc": "Tools",
     "t": "calc",
-    "u": "https://duckduckgo.com/?q={{{s}}}&ia=calculator"
+    "u": "https://google.com/search?q={{{s}}}&ia=calculator"
   },
   {
     "c": "Online Services",
@@ -15141,7 +15141,7 @@
     "s": "DuckDuckGo Calculator",
     "sc": "Tools",
     "t": "calculator",
-    "u": "https://duckduckgo.com/?ia=calculator&q={{{s}}}"
+    "u": "https://google.com/search?ia=calculator&q={{{s}}}"
   },
   {
     "c": "Research",
@@ -19927,7 +19927,7 @@
     "s": "Cool Math Games",
     "sc": "Games (general)",
     "t": "coolmath",
-    "u": "https://duckduckgo.com/?q=site%3Acoolmathgames.com+{{{s}}}&ia=web"
+    "u": "https://google.com/search?q=site%3Acoolmathgames.com+{{{s}}}&ia=web"
   },
   {
     "c": "Shopping",
@@ -21709,7 +21709,7 @@
     "s": "Curse Forge",
     "sc": "Downloads (add-ons)",
     "t": "curseforge",
-    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Acurseforge.com"
+    "u": "https://google.com/search?q={{{s}}}+site%3Acurseforge.com"
   },
   {
     "c": "Research",
@@ -22384,7 +22384,7 @@
     "s": "Ábrete libro",
     "sc": "Forum",
     "t": "dal",
-    "u": "https://duckduckgo.com/?q={{{s}}}+site:abretelibro.com"
+    "u": "https://google.com/search?q={{{s}}}+site:abretelibro.com"
   },
   {
     "c": "Research",
@@ -22546,7 +22546,7 @@
     "s": "DuckDuckGo Dark Theme",
     "sc": "Search (DDG)",
     "t": "dark",
-    "u": "https://duckduckgo.com/?q={{{s}}}&kae=d"
+    "u": "https://google.com/search?q={{{s}}}&kae=d"
   },
   {
     "c": "Entertainment",
@@ -22852,7 +22852,7 @@
     "s": "DuckDuckGo",
     "sc": "Search",
     "t": "dax",
-    "u": "http://duckduckgo.com/?q={{{s}}}"
+    "u": "http://google.com/search?q={{{s}}}"
   },
   {
     "c": "Online Services",
@@ -22861,7 +22861,7 @@
     "s": "DuckDuckGo",
     "sc": "Search (DDG)",
     "t": "day",
-    "u": "https://duckduckgo.com/?q={{{s}}}&df=d"
+    "u": "https://google.com/search?q={{{s}}}&df=d"
   },
   {
     "c": "Online Services",
@@ -23327,7 +23327,7 @@
     "s": "Duckduckgo Germany",
     "sc": "Search (DDG)",
     "t": "dde",
-    "u": "https://duckduckgo.com/?kl=de-de&q={{{s}}}"
+    "u": "https://google.com/search?kl=de-de&q={{{s}}}"
   },
   {
     "c": "Tech",
@@ -23345,7 +23345,7 @@
     "s": "Dansdeals Forum",
     "sc": "Blogs",
     "t": "ddf",
-    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Aforums.dansdeals.com"
+    "u": "https://google.com/search?q={{{s}}}+site%3Aforums.dansdeals.com"
   },
   {
     "c": "Online Services",
@@ -23354,7 +23354,7 @@
     "s": "DuckDuckGo",
     "sc": "Search (DDG)",
     "t": "ddg",
-    "u": "http://duckduckgo.com/?q={{{s}}}"
+    "u": "http://google.com/search?q={{{s}}}"
   },
   {
     "c": "Online Services",
@@ -23363,7 +23363,7 @@
     "s": "DuckDuckGo América Latina con Pale Moon",
     "sc": "Search (non-US)",
     "t": "ddgal",
-    "u": "https://duckduckgo.com/?t=palemoon&kl=xl-es&ko=1&k1=1&q={{{s}}}"
+    "u": "https://google.com/search?t=palemoon&kl=xl-es&ko=1&k1=1&q={{{s}}}"
   },
   {
     "c": "Online Services",
@@ -23372,7 +23372,7 @@
     "s": "DuckDuckGo Argentina con Pale Moon",
     "sc": "Search (non-US)",
     "t": "ddgar",
-    "u": "https://duckduckgo.com/?t=palemoon&kl=ar-es&ko=1&k1=1&q={{{s}}}"
+    "u": "https://google.com/search?t=palemoon&kl=ar-es&ko=1&k1=1&q={{{s}}}"
   },
   {
     "c": "Online Services",
@@ -23381,7 +23381,7 @@
     "s": "DuckDuckGo Brazilian Portuguese Search",
     "sc": "Search (DDG)",
     "t": "ddgbr",
-    "u": "https://duckduckgo.com/?q={{{s}}}&kp=-1&kl=br-pt"
+    "u": "https://google.com/search?q={{{s}}}&kp=-1&kl=br-pt"
   },
   {
     "c": "Online Services",
@@ -23390,7 +23390,7 @@
     "s": "DuckDuckGo Calculator",
     "sc": "Search (DDG)",
     "t": "ddgc",
-    "u": "https://duckduckgo.com/?q={{{s}}}&ia=calculator"
+    "u": "https://google.com/search?q={{{s}}}&ia=calculator"
   },
   {
     "c": "Research",
@@ -23399,7 +23399,7 @@
     "s": "DuckDuckGo dictionary definitions",
     "sc": "Reference (words)",
     "t": "ddgd",
-    "u": "https://duckduckgo.com/?q={{{s}}}&ia=definition"
+    "u": "https://google.com/search?q={{{s}}}&ia=definition"
   },
   {
     "c": "Online Services",
@@ -23408,7 +23408,7 @@
     "s": "duckduckgo",
     "sc": "Search",
     "t": "ddgde",
-    "u": "https://duckduckgo.com/?kl=de-de&q={{{s}}}"
+    "u": "https://google.com/search?kl=de-de&q={{{s}}}"
   },
   {
     "c": "Online Services",
@@ -23417,7 +23417,7 @@
     "s": "DuckDuckGo Estonia",
     "sc": "Search (DDG)",
     "t": "ddgee",
-    "u": "https://duckduckgo.com/?kl=ee-et&q={{{s}}}"
+    "u": "https://google.com/search?kl=ee-et&q={{{s}}}"
   },
   {
     "c": "Online Services",
@@ -23426,7 +23426,7 @@
     "s": "DuckDuckGo Estados Unidos",
     "sc": "Search (non-US)",
     "t": "ddgeue",
-    "u": "https://duckduckgo.com/?kl=ue-es&q={{{s}}}"
+    "u": "https://google.com/search?kl=ue-es&q={{{s}}}"
   },
   {
     "c": "Research",
@@ -23435,7 +23435,7 @@
     "s": "DuckDuckgo France",
     "sc": "Reference",
     "t": "ddgf",
-    "u": "http://duckduckgo.com/?kl=fr-fr&q={{{s}}}"
+    "u": "http://google.com/search?kl=fr-fr&q={{{s}}}"
   },
   {
     "c": "Online Services",
@@ -23444,7 +23444,7 @@
     "s": "DuckDuckGo Hungary",
     "sc": "Search (DDG)",
     "t": "ddghu",
-    "u": "http://duckduckgo.com/?kl=hu-hu&q={{{s}}}"
+    "u": "http://google.com/search?kl=hu-hu&q={{{s}}}"
   },
   {
     "c": "Online Services",
@@ -23453,7 +23453,7 @@
     "s": "DuckDuckGo Images",
     "sc": "Search (DDG)",
     "t": "ddgi",
-    "u": "https://duckduckgo.com/?q={{{s}}}&iax=images&ia=images"
+    "u": "https://google.com/search?q={{{s}}}&iax=images&ia=images"
   },
   {
     "c": "Online Services",
@@ -23462,7 +23462,7 @@
     "s": "DuckDuckGo in Japan",
     "sc": "Search (DDG)",
     "t": "ddgja",
-    "u": "https://duckduckgo.com/?q={{{s}}}&kl=jp-jp&kp=-1"
+    "u": "https://google.com/search?q={{{s}}}&kl=jp-jp&kp=-1"
   },
   {
     "c": "Online Services",
@@ -23471,7 +23471,7 @@
     "s": "DuckDuckGo Maps",
     "sc": "Search (DDG)",
     "t": "ddgm",
-    "u": "https://duckduckgo.com/?q={{{s}}}&iaxm=maps"
+    "u": "https://google.com/search?q={{{s}}}&iaxm=maps"
   },
   {
     "c": "News",
@@ -23480,7 +23480,7 @@
     "s": "DuckDuckGo news",
     "sc": "Aggregators",
     "t": "ddgn",
-    "u": "http://duckduckgo.com/?q={{{s}}}&iar=news&ia=news"
+    "u": "http://google.com/search?q={{{s}}}&iar=news&ia=news"
   },
   {
     "c": "Online Services",
@@ -23489,7 +23489,7 @@
     "s": "DuckDuckGo",
     "sc": "Search (DDG)",
     "t": "ddgnl",
-    "u": "https://duckduckgo.com/?q={{{s}}}&kl=nl-nl"
+    "u": "https://google.com/search?q={{{s}}}&kl=nl-nl"
   },
   {
     "c": "Online Services",
@@ -23498,7 +23498,7 @@
     "s": "DuckDuckGo Norway",
     "sc": "Search (DDG)",
     "t": "ddgno",
-    "u": "https://duckduckgo.com/?kl=no-no&q={{{s}}}"
+    "u": "https://google.com/search?kl=no-no&q={{{s}}}"
   },
   {
     "c": "News",
@@ -23507,7 +23507,7 @@
     "s": "DuckDuckGo Past Day",
     "sc": "Aggregators",
     "t": "ddgpd",
-    "u": "https://duckduckgo.com/?df=d&q={{{s}}}"
+    "u": "https://google.com/search?df=d&q={{{s}}}"
   },
   {
     "c": "Research",
@@ -23516,7 +23516,7 @@
     "s": "Reddit search (via DuckDuckGo)",
     "sc": "Reference (fun)",
     "t": "ddgr",
-    "u": "https://duckduckgo.com/?q=site:reddit.com+{{{s}}}"
+    "u": "https://google.com/search?q=site:reddit.com+{{{s}}}"
   },
   {
     "c": "Multimedia",
@@ -23525,7 +23525,7 @@
     "s": "DuckDuckGo Video Search",
     "sc": "Video",
     "t": "ddgv",
-    "u": "https://duckduckgo.com/?q={{{s}}}&iar=videos&iax=videos&ia=videos"
+    "u": "https://google.com/search?q={{{s}}}&iar=videos&iax=videos&ia=videos"
   },
   {
     "c": "Tech",
@@ -23651,7 +23651,7 @@
     "s": "DuckDuckGo Images",
     "sc": "Images",
     "t": "ddi",
-    "u": "https://duckduckgo.com/?q={{{s}}}&iax=images&ia=images"
+    "u": "https://google.com/search?q={{{s}}}&iax=images&ia=images"
   },
   {
     "c": "Research",
@@ -23678,7 +23678,7 @@
     "s": "DansDeals",
     "sc": "Blogs",
     "t": "ddms",
-    "u": "https://duckduckgo.com/?q=%20{{{s}}}+site%3Adansdeals.com"
+    "u": "https://google.com/search?q=%20{{{s}}}+site%3Adansdeals.com"
   },
   {
     "c": "News",
@@ -23714,7 +23714,7 @@
     "s": "Stack Overflow via DuckDuckGo",
     "sc": "Programming",
     "t": "ddso",
-    "u": "https://duckduckgo.com/?q={{{s}}}+site:stackoverflow.com"
+    "u": "https://google.com/search?q={{{s}}}+site:stackoverflow.com"
   },
   {
     "c": "Tech",
@@ -25026,7 +25026,7 @@
     "s": "Daring Fireball",
     "sc": "Search (DDG)",
     "t": "df",
-    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Adaringfireball.net"
+    "u": "https://google.com/search?q={{{s}}}+site%3Adaringfireball.net"
   },
   {
     "c": "Research",
@@ -25116,7 +25116,7 @@
     "s": "DuckDuckGo Images",
     "sc": "Images",
     "t": "dggi",
-    "u": "https://duckduckgo.com/?q={{{s}}}&ia=images"
+    "u": "https://google.com/search?q={{{s}}}&ia=images"
   },
   {
     "c": "Online Services",
@@ -25125,7 +25125,7 @@
     "s": "DuckDuckGo Images",
     "sc": "Search (DDG)",
     "t": "dgi",
-    "u": "https://duckduckgo.com/?q={{{s}}}&iar=images&iax=images&ia=images"
+    "u": "https://google.com/search?q={{{s}}}&iar=images&iax=images&ia=images"
   },
   {
     "c": "Shopping",
@@ -25143,7 +25143,7 @@
     "s": "docs.GL for OpenGL 4",
     "sc": "Libraries/Frameworks",
     "t": "dgl4",
-    "u": "https://duckduckgo.com/?q=site%3Adocs.gl%2Fgl4+{{{s}}}"
+    "u": "https://google.com/search?q=site%3Adocs.gl%2Fgl4+{{{s}}}"
   },
   {
     "c": "Online Services",
@@ -25593,7 +25593,7 @@
     "s": "DuckDuck",
     "sc": "Search (DDG)",
     "t": "diff",
-    "u": "https://duckduckgo.com/?q=difference+between+{{{s}}}&ia=qa"
+    "u": "https://google.com/search?q=difference+between+{{{s}}}&ia=qa"
   },
   {
     "c": "Entertainment",
@@ -25791,7 +25791,7 @@
     "s": "DuckDuckGo ",
     "sc": "Search (DDG)",
     "t": "dim",
-    "u": "https://duckduckgo.com/?q={{{s}}}&ia=images&iax=images"
+    "u": "https://google.com/search?q={{{s}}}&ia=images&iax=images"
   },
   {
     "c": "Research",
@@ -26394,7 +26394,7 @@
     "s": "D Programming Language",
     "sc": "Languages (d)",
     "t": "dlang",
-    "u": "https://duckduckgo.com/?q=site%3Adlang.org+{{{s}}}"
+    "u": "https://google.com/search?q=site%3Adlang.org+{{{s}}}"
   },
   {
     "c": "Entertainment",
@@ -26646,7 +26646,7 @@
     "s": "Deb-Multimedia",
     "sc": "Sysadmin (debian)",
     "t": "dmo",
-    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Adeb-multimedia.org%2Fpool%2F"
+    "u": "https://google.com/search?q={{{s}}}+site%3Adeb-multimedia.org%2Fpool%2F"
   },
   {
     "c": "Research",
@@ -26988,7 +26988,7 @@
     "s": "Documentation Ubuntu-fr",
     "sc": "Sysadmin (Ubuntu)",
     "t": "docubufr",
-    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Adoc.ubuntu-fr.org"
+    "u": "https://google.com/search?q={{{s}}}+site%3Adoc.ubuntu-fr.org"
   },
   {
     "c": "Multimedia",
@@ -27555,7 +27555,7 @@
     "s": "PCsoft",
     "sc": "Programming",
     "t": "dpcs",
-    "u": "https://duckduckgo.com/?q={{{s}}}+site:doc.pcsoft.fr&ia=web"
+    "u": "https://google.com/search?q={{{s}}}+site:doc.pcsoft.fr&ia=web"
   },
   {
     "c": "Research",
@@ -28599,7 +28599,7 @@
     "s": "DuckDuckGo",
     "sc": "Images",
     "t": "duckduckgo",
-    "u": "https://duckduckgo.com/?q={{{s}}}"
+    "u": "https://google.com/search?q={{{s}}}"
   },
   {
     "c": "Online Services",
@@ -28608,7 +28608,7 @@
     "s": "Duck Duck Go Español",
     "sc": "Search (DDG)",
     "t": "duckgoes",
-    "u": "https://duckduckgo.com/?q={{{s}}}&kp=-1&k5=1&kah=wt-wt&kl=xl-es&kad=es_ES"
+    "u": "https://google.com/search?q={{{s}}}&kp=-1&k5=1&kah=wt-wt&kl=xl-es&kad=es_ES"
   },
   {
     "c": "Tech",
@@ -28662,7 +28662,7 @@
     "s": "DuckDuckGo UK",
     "sc": "Search (DDG)",
     "t": "duk",
-    "u": "https://duckduckgo.com/?q={{{s}}}&kah=uk-en&kl=uk-en&ia=web"
+    "u": "https://google.com/search?q={{{s}}}&kah=uk-en&kl=uk-en&ia=web"
   },
   {
     "c": "Research",
@@ -29157,7 +29157,7 @@
     "s": "Effective Altruism Forum",
     "sc": "Social news/links",
     "t": "eaf",
-    "u": "https://duckduckgo.com/?q=site%3Ahttp%3A%2F%2Feffective-altruism.com+{{{s}}}"
+    "u": "https://google.com/search?q=site%3Ahttp%3A%2F%2Feffective-altruism.com+{{{s}}}"
   },
   {
     "c": "Research",
@@ -30372,7 +30372,7 @@
     "s": "ellislab",
     "sc": "Programming",
     "t": "ee",
-    "u": "https://duckduckgo.com/?q=site%3Ahttp%3A%2F%2Fellislab.com%2Fforums%2F+{{{s}}}"
+    "u": "https://google.com/search?q=site%3Ahttp%3A%2F%2Fellislab.com%2Fforums%2F+{{{s}}}"
   },
   {
     "c": "Tech",
@@ -30435,7 +30435,7 @@
     "s": "Epguides",
     "sc": "TV",
     "t": "eg",
-    "u": "http://duckduckgo.com/?q={{{s}}}+site:epguides.com"
+    "u": "http://google.com/search?q={{{s}}}+site:epguides.com"
   },
   {
     "c": "Research",
@@ -30462,7 +30462,7 @@
     "s": "Eurogamer forums",
     "sc": "Games (general)",
     "t": "egforums",
-    "u": "http://duckduckgo.com/?q=site:eurogamer.net/forums+{{{s}}}"
+    "u": "http://google.com/search?q=site:eurogamer.net/forums+{{{s}}}"
   },
   {
     "c": "Online Services",
@@ -30660,7 +30660,7 @@
     "s": "Economics Job Market Rumors",
     "sc": "Social news/links",
     "t": "ejmr",
-    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Aeconjobrumors.com"
+    "u": "https://google.com/search?q={{{s}}}+site%3Aeconjobrumors.com"
   },
   {
     "c": "Online Services",
@@ -31128,7 +31128,7 @@
     "s": "Elixir Documentation",
     "sc": "Languages (other)",
     "t": "elixir-docs",
-    "u": "https://duckduckgo.com/?q=site%3Aelixir-lang.org%2Fdocs+{{{s}}}"
+    "u": "https://google.com/search?q=site%3Aelixir-lang.org%2Fdocs+{{{s}}}"
   },
   {
     "c": "Tech",
@@ -31299,7 +31299,7 @@
     "s": "EmacsWiki",
     "sc": "Google",
     "t": "emacs",
-    "u": "https://duckduckgo.com/?q=site:emacswiki.org+{{{s}}}"
+    "u": "https://google.com/search?q=site:emacswiki.org+{{{s}}}"
   },
   {
     "c": "Tech",
@@ -31308,7 +31308,7 @@
     "s": "EmacsWiki.org",
     "sc": "Programming",
     "t": "emacswiki",
-    "u": "https://duckduckgo.com/?q=site:emacswiki.org+{{{s}}}"
+    "u": "https://google.com/search?q=site:emacswiki.org+{{{s}}}"
   },
   {
     "c": "Tech",
@@ -31344,7 +31344,7 @@
     "s": "Ember",
     "sc": "Libraries/Frameworks",
     "t": "ember",
-    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Ahttps%3A%2F%2Fapi.emberjs.com"
+    "u": "https://google.com/search?q={{{s}}}+site%3Ahttps%3A%2F%2Fapi.emberjs.com"
   },
   {
     "c": "Research",
@@ -32433,7 +32433,7 @@
     "s": "epguides.com",
     "sc": "TV",
     "t": "epg",
-    "u": "https://duckduckgo.com/?q=site%3Aepguides.com+{{{s}}}"
+    "u": "https://google.com/search?q=site%3Aepguides.com+{{{s}}}"
   },
   {
     "c": "Shopping",
@@ -32613,7 +32613,7 @@
     "s": "Equestria Daily",
     "sc": "Specialty",
     "t": "equestriadaily",
-    "u": "http://duckduckgo.com/?q=site:equestriadaily.com+{{{s}}}"
+    "u": "http://google.com/search?q=site:equestriadaily.com+{{{s}}}"
   },
   {
     "c": "Multimedia",
@@ -32676,7 +32676,7 @@
     "s": "Erlang Docs",
     "sc": "Languages (other)",
     "t": "erlang",
-    "u": "https://duckduckgo.com/?q=site%3Aerlang.org+{{{s}}}"
+    "u": "https://google.com/search?q=site%3Aerlang.org+{{{s}}}"
   },
   {
     "c": "Tech",
@@ -32721,7 +32721,7 @@
     "s": "duckduckgo",
     "sc": "Search (non-US)",
     "t": "es",
-    "u": "https://duckduckgo.com/?q={{{s}}}&kl=xl-es&kad=es_ES&ia=about"
+    "u": "https://google.com/search?q={{{s}}}&kl=xl-es&kad=es_ES&ia=about"
   },
   {
     "c": "Shopping",
@@ -33837,7 +33837,7 @@
     "s": "Entertainment Weekly",
     "sc": "Movies",
     "t": "ew",
-    "u": "https://duckduckgo.com/?q=site%3Aew.com+{{{s}}}"
+    "u": "https://google.com/search?q=site%3Aew.com+{{{s}}}"
   },
   {
     "c": "Entertainment",
@@ -34872,7 +34872,7 @@
     "s": "FootballGuys",
     "sc": "Sports",
     "t": "fbg",
-    "u": "https://duckduckgo.com/?q=site%3Afootballguys.com+{{{s}}}"
+    "u": "https://google.com/search?q=site%3Afootballguys.com+{{{s}}}"
   },
   {
     "c": "Online Services",
@@ -34953,7 +34953,7 @@
     "s": "FreeCAD",
     "sc": "Design",
     "t": "fc",
-    "u": "https://duckduckgo.com/?q=site%3A+freecadweb.org+{{{s}}}"
+    "u": "https://google.com/search?q=site%3A+freecadweb.org+{{{s}}}"
   },
   {
     "c": "Research",
@@ -35655,7 +35655,7 @@
     "s": "Gentoo Forums",
     "sc": "Sysadmin (Gentoo)",
     "t": "fgentoo",
-    "u": "https://duckduckgo.com/?q=site%3Aforums.gentoo.org+{{{s}}}"
+    "u": "https://google.com/search?q=site%3Aforums.gentoo.org+{{{s}}}"
   },
   {
     "c": "Entertainment",
@@ -35763,7 +35763,7 @@
     "s": "https://www.gladyscelticcorner.com",
     "sc": "Misc",
     "t": "fiddling",
-    "u": "https://duckduckgo.com/?q=site%3Agladyscelticcorner.com+{{{s}}}"
+    "u": "https://google.com/search?q=site%3Agladyscelticcorner.com+{{{s}}}"
   },
   {
     "c": "Entertainment",
@@ -36456,7 +36456,7 @@
     "s": "Federation Flags & Flagpoles",
     "sc": "Online",
     "t": "flag",
-    "u": "https://duckduckgo.com/?q=site%3Aflagpoles.com.au+{{{s}}}"
+    "u": "https://google.com/search?q=site%3Aflagpoles.com.au+{{{s}}}"
   },
   {
     "c": "Online Services",
@@ -37473,7 +37473,7 @@
     "s": "MartinFowler.com",
     "sc": "Blogs",
     "t": "fowler",
-    "u": "https://duckduckgo.com/?q=site%3Amartinfowler.com+{{{s}}}"
+    "u": "https://google.com/search?q=site%3Amartinfowler.com+{{{s}}}"
   },
   {
     "c": "News",
@@ -37545,7 +37545,7 @@
     "s": "Forum pcsoft",
     "sc": "Languages (other)",
     "t": "fpcs",
-    "u": "https://duckduckgo.com/?q=site:forum.pcsoft.fr+{{{s}}}"
+    "u": "https://google.com/search?q=site:forum.pcsoft.fr+{{{s}}}"
   },
   {
     "c": "Tech",
@@ -38886,7 +38886,7 @@
     "s": "FZ",
     "sc": "Games (general)",
     "t": "fz",
-    "u": "https://duckduckgo.com/?q=site%3Afz.se+{{{s}}}"
+    "u": "https://google.com/search?q=site%3Afz.se+{{{s}}}"
   },
   {
     "c": "Online Services",
@@ -39183,7 +39183,7 @@
     "s": "Ábrete libro",
     "sc": "Forum",
     "t": "gal",
-    "u": "https://duckduckgo.com/?q={{{s}}}+site:abretelibro.com"
+    "u": "https://google.com/search?q={{{s}}}+site:abretelibro.com"
   },
   {
     "c": "Shopping",
@@ -40144,7 +40144,7 @@
     "s": "GDB Debugger",
     "sc": "Programming",
     "t": "gdb",
-    "u": "http://duckduckgo.com/?q=site:sourceware.org/gdb/current/onlinedocs/gdb/+{{{s}}}"
+    "u": "http://google.com/search?q=site:sourceware.org/gdb/current/onlinedocs/gdb/+{{{s}}}"
   },
   {
     "c": "Tech",
@@ -40711,7 +40711,7 @@
     "s": "Le blog de Genma",
     "sc": "Blogs",
     "t": "genma",
-    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Ahttp%3A%2F%2Fgenma.free.fr"
+    "u": "https://google.com/search?q={{{s}}}+site%3Ahttp%3A%2F%2Fgenma.free.fr"
   },
   {
     "c": "Online Services",
@@ -41368,7 +41368,7 @@
     "s": "Github User Pages",
     "sc": "Programming",
     "t": "ghio",
-    "u": "https://duckduckgo.com/?q=site%3Agithub.io+{{{s}}}&ia=web"
+    "u": "https://google.com/search?q=site%3Agithub.io+{{{s}}}&ia=web"
   },
   {
     "c": "Tech",
@@ -42322,7 +42322,7 @@
     "s": "golang.org",
     "sc": "Languages (go)",
     "t": "gls",
-    "u": "https://duckduckgo.com/?q=site%3Agolang.org+{{{s}}}"
+    "u": "https://google.com/search?q=site%3Agolang.org+{{{s}}}"
   },
   {
     "c": "Research",
@@ -44338,7 +44338,7 @@
     "s": "Gradle",
     "sc": "Programming",
     "t": "gradle",
-    "u": "http://duckduckgo.com/?q=site%3Agradle.org+{{{s}}}"
+    "u": "http://google.com/search?q=site%3Agradle.org+{{{s}}}"
   },
   {
     "c": "Tech",
@@ -44635,7 +44635,7 @@
     "s": "Le Guide du rôliste galactique",
     "sc": "Games (specific)",
     "t": "grog",
-    "u": "https://duckduckgo.com/?q=site%3Alegrog.org+{{{s}}}"
+    "u": "https://google.com/search?q=site%3Alegrog.org+{{{s}}}"
   },
   {
     "c": "Tech",
@@ -44644,7 +44644,7 @@
     "s": "Groovy Documentation",
     "sc": "Programming",
     "t": "groovy",
-    "u": "https://duckduckgo.com/?q={{{s}}}+site:docs.groovy-lang.org"
+    "u": "https://google.com/search?q={{{s}}}+site:docs.groovy-lang.org"
   },
   {
     "c": "Shopping",
@@ -47839,7 +47839,7 @@
     "s": "theguardian.com",
     "sc": "Newspaper",
     "t": "gu",
-    "u": "https://duckduckgo.com/?q=site%3Awww.theguardian.com+{{{s}}}"
+    "u": "https://google.com/search?q=site%3Awww.theguardian.com+{{{s}}}"
   },
   {
     "c": "Online Services",
@@ -48649,7 +48649,7 @@
     "s": "Hard2mano",
     "sc": "Social",
     "t": "h2m",
-    "u": "https://duckduckgo.com/?q={{{s}}}&sites=hard2mano.com"
+    "u": "https://google.com/search?q={{{s}}}&sites=hard2mano.com"
   },
   {
     "c": "Shopping",
@@ -49630,7 +49630,7 @@
     "s": "Herber",
     "sc": "Programming",
     "t": "herber",
-    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Aherber.de"
+    "u": "https://google.com/search?q={{{s}}}+site%3Aherber.de"
   },
   {
     "c": "Online Services",
@@ -49765,7 +49765,7 @@
     "s": "Forum Hardware.fr",
     "sc": "Reference",
     "t": "hfr",
-    "u": "http://duckduckgo.com/?q=site:linuxfr.org+{{{s}}}"
+    "u": "http://google.com/search?q=site:linuxfr.org+{{{s}}}"
   },
   {
     "c": "Shopping",
@@ -51032,7 +51032,7 @@
     "s": "HyperPhysics",
     "sc": "Reference (science)",
     "t": "hphys",
-    "u": "https://duckduckgo.com/?q=site%3Ahyperphysics.phy-astr.gsu.edu+{{{s}}}"
+    "u": "https://google.com/search?q=site%3Ahyperphysics.phy-astr.gsu.edu+{{{s}}}"
   },
   {
     "c": "Research",
@@ -51261,7 +51261,7 @@
   },
   {
     "c": "Online Services",
-    "d": "google.com",
+    "d": "duckduckgo.com",
     "r": 67,
     "s": "DuckDuckGo (HTML)",
     "sc": "Search (DDG)",
@@ -51876,7 +51876,7 @@
     "s": "DuckDuckGo Images",
     "sc": "Search (DDG)",
     "t": "i",
-    "u": "https://duckduckgo.com/?q={{{s}}}&ia=images&iax=images"
+    "u": "https://google.com/search?q={{{s}}}&ia=images&iax=images"
   },
   {
     "c": "Tech",
@@ -52605,7 +52605,7 @@
     "s": "duckduckgo",
     "sc": "Search",
     "t": "ie",
-    "u": "https://duckduckgo.com/?q=site%3Aie+{{{s}}}"
+    "u": "https://google.com/search?q=site%3Aie+{{{s}}}"
   },
   {
     "c": "Research",
@@ -53100,7 +53100,7 @@
     "s": "DuckDuckGo Images",
     "sc": "Search (DDG)",
     "t": "il",
-    "u": "https://duckduckgo.com/?q={{{s}}}&ia=images&iax=images&iaf=size%3Aimagesize-large"
+    "u": "https://google.com/search?q={{{s}}}&ia=images&iax=images&iaf=size%3Aimagesize-large"
   },
   {
     "c": "News",
@@ -53215,7 +53215,7 @@
     "s": "DuckDuckGo Images",
     "sc": "Search (DDG)",
     "t": "image",
-    "u": "https://duckduckgo.com/?q={{{s}}}&ia=images&iax=images"
+    "u": "https://google.com/search?q={{{s}}}&ia=images&iax=images"
   },
   {
     "c": "Tech",
@@ -53260,7 +53260,7 @@
     "s": "DuckDuckGo Images",
     "sc": "Search (DDG)",
     "t": "images",
-    "u": "https://duckduckgo.com/?q={{{s}}}&ia=images&iax=images"
+    "u": "https://google.com/search?q={{{s}}}&ia=images&iax=images"
   },
   {
     "c": "Online Services",
@@ -53431,7 +53431,7 @@
     "s": "DuckDuckGo Images",
     "sc": "Search (DDG)",
     "t": "img",
-    "u": "https://duckduckgo.com/?q={{{s}}}&ia=images&iax=images"
+    "u": "https://google.com/search?q={{{s}}}&ia=images&iax=images"
   },
   {
     "c": "Entertainment",
@@ -53467,7 +53467,7 @@
     "s": "DuckDuckGo Images",
     "sc": "Search (DDG)",
     "t": "imgs",
-    "u": "https://duckduckgo.com/?q={{{s}}}&ia=images&iax=images"
+    "u": "https://google.com/search?q={{{s}}}&ia=images&iax=images"
   },
   {
     "c": "Multimedia",
@@ -54034,7 +54034,7 @@
     "s": "DDG images excluding Pinterest",
     "sc": "Search (DDG)",
     "t": "inp",
-    "u": "https://duckduckgo.com/?q=-site%3Apinterest.com+{{{s}}}&iar=images&iax=images&ia=images"
+    "u": "https://google.com/search?q=-site%3Apinterest.com+{{{s}}}&iar=images&iax=images&ia=images"
   },
   {
     "c": "Online Services",
@@ -55096,7 +55096,7 @@
     "s": "DuckDuckGo Italy",
     "sc": "Search (DDG)",
     "t": "it",
-    "u": "https://duckduckgo.com/?q={{{s}}}&kl=it-it"
+    "u": "https://google.com/search?q={{{s}}}&kl=it-it"
   },
   {
     "c": "Shopping",
@@ -55238,7 +55238,7 @@
     "s": "iTunes",
     "sc": "Misc",
     "t": "itunes",
-    "u": "https://duckduckgo.com/?q={{{s}}}%20site%3Aitunes.apple.com"
+    "u": "https://google.com/search?q={{{s}}}%20site%3Aitunes.apple.com"
   },
   {
     "c": "Multimedia",
@@ -55256,7 +55256,7 @@
     "s": "iTunes (Spain)",
     "sc": "Music",
     "t": "ituneses",
-    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Aitunes.apple.com%2Fes%2F"
+    "u": "https://google.com/search?q={{{s}}}+site%3Aitunes.apple.com%2Fes%2F"
   },
   {
     "c": "Entertainment",
@@ -55607,7 +55607,7 @@
     "s": "Joomla! API",
     "sc": "Languages (php)",
     "t": "japi",
-    "u": "https://duckduckgo.com/?q=site%3Aapi.joomla.org+{{{s}}}"
+    "u": "https://google.com/search?q=site%3Aapi.joomla.org+{{{s}}}"
   },
   {
     "c": "Tech",
@@ -55625,7 +55625,7 @@
     "s": "Jargon File",
     "sc": "Search (DDG)",
     "t": "jargon",
-    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Acatb.org+inurl%3Ajargon"
+    "u": "https://google.com/search?q={{{s}}}+site%3Acatb.org+inurl%3Ajargon"
   },
   {
     "c": "Research",
@@ -55652,7 +55652,7 @@
     "s": "Java 11 documentation",
     "sc": "Languages (java)",
     "t": "java11",
-    "u": "https://duckduckgo.com/?q=site%3Adocs.oracle.com%2Fen%2Fjava%2Fjavase%2F11%2Fdocs%2Fapi%2F+{{{s}}}"
+    "u": "https://google.com/search?q=site%3Adocs.oracle.com%2Fen%2Fjava%2Fjavase%2F11%2Fdocs%2Fapi%2F+{{{s}}}"
   },
   {
     "c": "Tech",
@@ -55697,7 +55697,7 @@
     "s": "Java 8 Documentation",
     "sc": "Languages (java)",
     "t": "java8",
-    "u": "https://duckduckgo.com/?q=site%3Adocs.oracle.com%2Fjavase%2F8%2Fdocs%2Fapi%2F+{{{s}}}"
+    "u": "https://google.com/search?q=site%3Adocs.oracle.com%2Fjavase%2F8%2Fdocs%2Fapi%2F+{{{s}}}"
   },
   {
     "c": "Tech",
@@ -56363,7 +56363,7 @@
     "s": "jMonkeyEngine WIki",
     "sc": "Libraries/Frameworks",
     "t": "jmew",
-    "u": "https://duckduckgo.com/?q={{{s}}}%20site:wiki.jmonkeyengine.org"
+    "u": "https://google.com/search?q={{{s}}}%20site:wiki.jmonkeyengine.org"
   },
   {
     "c": "Online Services",
@@ -57713,7 +57713,7 @@
     "s": "Keybase.io",
     "sc": "Startups",
     "t": "kb",
-    "u": "http://duckduckgo.com/?q=site%3Akeybase.io+{{{s}}}"
+    "u": "http://google.com/search?q=site%3Akeybase.io+{{{s}}}"
   },
   {
     "c": "Shopping",
@@ -59810,7 +59810,7 @@
     "s": "l3utterfish",
     "sc": "Blogs",
     "t": "l3u",
-    "u": "https://duckduckgo.com/?q={{{s}}}+site:l3utterfish.blogspot.com"
+    "u": "https://google.com/search?q={{{s}}}+site:l3utterfish.blogspot.com"
   },
   {
     "c": "Entertainment",
@@ -61175,7 +61175,7 @@
     "s": "Les-CRIs",
     "sc": "Business",
     "t": "lescris",
-    "u": "https://duckduckgo.com/?q=site%3Ales-cris.com+{{{s}}}"
+    "u": "https://google.com/search?q=site%3Ales-cris.com+{{{s}}}"
   },
   {
     "c": "Online Services",
@@ -61292,7 +61292,7 @@
     "s": "LewRockwell.com",
     "sc": "Specialty",
     "t": "lewrockwell",
-    "u": "https://duckduckgo.com/?q=site%3Alewrockwell.com+{{{s}}}"
+    "u": "https://google.com/search?q=site%3Alewrockwell.com+{{{s}}}"
   },
   {
     "c": "Entertainment",
@@ -61517,7 +61517,7 @@
     "s": "LibGDX API",
     "sc": "Libraries/Frameworks",
     "t": "libgdx",
-    "u": "https://duckduckgo.com/?q=site%3Alibgdx.badlogicgames.com+{{{s}}}&t=h&ia=web"
+    "u": "https://google.com/search?q=site%3Alibgdx.badlogicgames.com+{{{s}}}&t=h&ia=web"
   },
   {
     "c": "Research",
@@ -62363,7 +62363,7 @@
     "s": "LinuxFr",
     "sc": "Blogs",
     "t": "linuxfr",
-    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Alinuxfr.org&ia=web"
+    "u": "https://google.com/search?q={{{s}}}+site%3Alinuxfr.org&ia=web"
   },
   {
     "c": "Tech",
@@ -62547,7 +62547,7 @@
   },
   {
     "c": "Online Services",
-    "d": "google.com",
+    "d": "duckduckgo.com",
     "r": 142,
     "s": "DuckDuckGo Lite",
     "sc": "Search (DDG)",
@@ -62696,7 +62696,7 @@
     "s": "LiveJournal",
     "sc": "Blogs (intl)",
     "t": "lj",
-    "u": "http://duckduckgo.com/?q=site%3Alivejournal.com+{{{s}}}"
+    "u": "http://google.com/search?q=site%3Alivejournal.com+{{{s}}}"
   },
   {
     "c": "Entertainment",
@@ -62759,7 +62759,7 @@
     "s": "LLVM Compiler Infrastructure",
     "sc": "Programming",
     "t": "llvm",
-    "u": "https://duckduckgo.com/?q=site%3Allvm.org+{{{s}}}"
+    "u": "https://google.com/search?q=site%3Allvm.org+{{{s}}}"
   },
   {
     "c": "Multimedia",
@@ -63254,7 +63254,7 @@
     "s": "LoopbackJS Documentations site",
     "sc": "Libraries/Frameworks",
     "t": "loopbackjs",
-    "u": "http://duckduckgo.com/?q=site:loopback.io/doc/en/lb3+{{{s}}}"
+    "u": "http://google.com/search?q=site:loopback.io/doc/en/lb3+{{{s}}}"
   },
   {
     "c": "Shopping",
@@ -63749,7 +63749,7 @@
     "s": "LinusTechTips Forum",
     "sc": "Companies",
     "t": "lttforum",
-    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Alinustechtips.com"
+    "u": "https://google.com/search?q={{{s}}}+site%3Alinustechtips.com"
   },
   {
     "c": "Online Services",
@@ -63866,7 +63866,7 @@
     "s": "Lucire",
     "sc": "Search (DDG)",
     "t": "lucire",
-    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Alucire.com"
+    "u": "https://google.com/search?q={{{s}}}+site%3Alucire.com"
   },
   {
     "c": "Online Services",
@@ -63974,7 +63974,7 @@
     "s": "(DuckDuckGo) Agência Lupa Fact-Checking Brasil",
     "sc": "Tools",
     "t": "lupa",
-    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Apiaui.folha.uol.com.br+inurl%3Alupa&ia=web"
+    "u": "https://google.com/search?q={{{s}}}+site%3Apiaui.folha.uol.com.br+inurl%3Alupa&ia=web"
   },
   {
     "c": "Entertainment",
@@ -64127,7 +64127,7 @@
     "s": "LWJGL",
     "sc": "Search (DDG)",
     "t": "lwjgl",
-    "u": "http://duckduckgo.com/?q={{{s}}}+site:http://lwjgl.org/javadoc/"
+    "u": "http://google.com/search?q={{{s}}}+site:http://lwjgl.org/javadoc/"
   },
   {
     "c": "News",
@@ -64199,7 +64199,7 @@
     "s": "forums.Bodyrecomposition.com",
     "sc": "Health",
     "t": "lyle",
-    "u": "https://duckduckgo.com/?q={{{s}}}+site:forums.lylemcdonald.com"
+    "u": "https://google.com/search?q={{{s}}}+site:forums.lylemcdonald.com"
   },
   {
     "c": "Tech",
@@ -64217,7 +64217,7 @@
     "s": "Lyrical Nonsense",
     "sc": "Music (Lyrics)",
     "t": "lyrical",
-    "u": "http://duckduckgo.com/?q=site%3Alyrical-nonsense.com+{{{s}}}"
+    "u": "http://google.com/search?q=site%3Alyrical-nonsense.com+{{{s}}}"
   },
   {
     "c": "Multimedia",
@@ -65018,7 +65018,7 @@
     "s": "The Linux man-pages project",
     "sc": "Sysadmin (man)",
     "t": "man7",
-    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Aman7.org%2Flinux%2Fman-pages"
+    "u": "https://google.com/search?q={{{s}}}+site%3Aman7.org%2Flinux%2Fman-pages"
   },
   {
     "c": "Entertainment",
@@ -65162,7 +65162,7 @@
     "s": "Mac OSX Manual PAge",
     "sc": "Sysadmin (man)",
     "t": "manosx",
-    "u": "http://duckduckgo.com/?q={{{s}}}+site%3Adeveloper.apple.com"
+    "u": "http://google.com/search?q={{{s}}}+site%3Adeveloper.apple.com"
   },
   {
     "c": "Tech",
@@ -65468,7 +65468,7 @@
     "s": "markosweb",
     "sc": "Tools (URLs)",
     "t": "markos",
-    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Amarkosweb.com"
+    "u": "https://google.com/search?q={{{s}}}+site%3Amarkosweb.com"
   },
   {
     "c": "Shopping",
@@ -65684,7 +65684,7 @@
     "s": "Matlab File Exchange",
     "sc": "Academic (math/cs)",
     "t": "mathworks",
-    "u": "http://duckduckgo.com/?q={{{s}}}+site:mathworks.com"
+    "u": "http://google.com/search?q={{{s}}}+site:mathworks.com"
   },
   {
     "c": "Research",
@@ -66638,7 +66638,7 @@
     "s": "Mozilla Developer Network",
     "sc": "Programming",
     "t": "mdn.s",
-    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Adeveloper.mozilla.org"
+    "u": "https://google.com/search?q={{{s}}}+site%3Adeveloper.mozilla.org"
   },
   {
     "c": "Tech",
@@ -68490,7 +68490,7 @@
     "s": "Michael Tsai - Blog",
     "sc": "Blogs",
     "t": "mjtsai",
-    "u": "https://duckduckgo.com/?q={{{s}}}&sites=mjtsai.com&ia=web"
+    "u": "https://google.com/search?q={{{s}}}&sites=mjtsai.com&ia=web"
   },
   {
     "c": "Shopping",
@@ -69586,7 +69586,7 @@
     "s": "DuckDuckGo",
     "sc": "Search (DDG)",
     "t": "month",
-    "u": "https://duckduckgo.com/?q={{{s}}}&df=m"
+    "u": "https://google.com/search?q={{{s}}}&df=m"
   },
   {
     "c": "Shopping",
@@ -69694,7 +69694,7 @@
     "s": "MobileRead",
     "sc": "Forum",
     "t": "more",
-    "u": "https://duckduckgo.com/?q=site:https://www.mobileread.com%20{{{s}}}"
+    "u": "https://google.com/search?q=site:https://www.mobileread.com%20{{{s}}}"
   },
   {
     "c": "Research",
@@ -70324,7 +70324,7 @@
     "s": "MuseScore (DuckDuckGo search)",
     "sc": "Docs",
     "t": "mscore",
-    "u": "https://duckduckgo.com/?q=site%3Amusescore.org+{{{s}}}&ia=web"
+    "u": "https://google.com/search?q=site%3Amusescore.org+{{{s}}}&ia=web"
   },
   {
     "c": "Tech",
@@ -71395,7 +71395,7 @@
     "s": "MusicWeb International",
     "sc": "Audio",
     "t": "mwi",
-    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Amusicweb-international.com"
+    "u": "https://google.com/search?q={{{s}}}+site%3Amusicweb-international.com"
   },
   {
     "c": "Research",
@@ -71888,7 +71888,7 @@
     "s": "DuckDuckGo News",
     "sc": "Aggregators",
     "t": "n",
-    "u": "https://duckduckgo.com/?q={{{s}}}&iar=news&ia=news"
+    "u": "https://google.com/search?q={{{s}}}&iar=news&ia=news"
   },
   {
     "c": "News",
@@ -72626,7 +72626,7 @@
     "s": "DuckDuckGo News DE",
     "sc": "Newspaper",
     "t": "nde",
-    "u": "https://duckduckgo.com/?q=test&iar=news&ia=news&kl=de-de"
+    "u": "https://google.com/search?q=test&iar=news&ia=news&kl=de-de"
   },
   {
     "c": "News",
@@ -73238,7 +73238,7 @@
     "s": "DuckDuckGo News",
     "sc": "Aggregators",
     "t": "news",
-    "u": "https://duckduckgo.com/?q={{{s}}}&iar=news&ia=news"
+    "u": "https://google.com/search?q={{{s}}}&iar=news&ia=news"
   },
   {
     "c": "News",
@@ -73292,7 +73292,7 @@
     "s": "DuckDuckGo News Germany",
     "sc": "International",
     "t": "newsde",
-    "u": "https://duckduckgo.com/?q={{{s}}}&iar=news&ia=news&kl=de-de"
+    "u": "https://google.com/search?q={{{s}}}&iar=news&ia=news&kl=de-de"
   },
   {
     "c": "Research",
@@ -73310,7 +73310,7 @@
     "s": "DuckDuckGo News France",
     "sc": "International",
     "t": "newsfr",
-    "u": "https://duckduckgo.com/?q={{{s}}}&iar=news&ia=news&kl=fr-fr"
+    "u": "https://google.com/search?q={{{s}}}&iar=news&ia=news&kl=fr-fr"
   },
   {
     "c": "News",
@@ -73346,7 +73346,7 @@
     "s": "DuckDuckGo News Mexico",
     "sc": "International",
     "t": "newsmx",
-    "u": "https://duckduckgo.com/?q={{{s}}}&iar=news&kl=mx-es&ia=news"
+    "u": "https://google.com/search?q={{{s}}}&iar=news&kl=mx-es&ia=news"
   },
   {
     "c": "News",
@@ -73499,7 +73499,7 @@
     "s": "DuckDuckGo Actualité",
     "sc": "Aggregators",
     "t": "nfr",
-    "u": "https://duckduckgo.com/?q={{{s}}}&iar=news&ia=news&kl=fr-fr"
+    "u": "https://google.com/search?q={{{s}}}&iar=news&ia=news&kl=fr-fr"
   },
   {
     "c": "Entertainment",
@@ -74417,7 +74417,7 @@
     "s": "Node.js Documentation",
     "sc": "Languages (javascript)",
     "t": "nodejs",
-    "u": "https://duckduckgo.com/?q=!node+{{{s}}}"
+    "u": "https://google.com/search?q=!node+{{{s}}}"
   },
   {
     "c": "Shopping",
@@ -74484,7 +74484,7 @@
   },
   {
     "c": "Online Services",
-    "d": "google.com",
+    "d": "duckduckgo.com",
     "r": 3,
     "s": "DuckDuckGo (HTML)",
     "sc": "Search (DDG)",
@@ -74619,7 +74619,7 @@
   },
   {
     "c": "Online Services",
-    "d": "google.com",
+    "d": "duckduckgo.com",
     "r": 0,
     "s": "DuckDuckGo (HTML)",
     "sc": "Search (DDG)",
@@ -74957,7 +74957,7 @@
     "s": "DuckDuckGo",
     "sc": "Search",
     "t": "ns",
-    "u": "http://duckduckgo.com/?q=!safeoff+{{{s}}}"
+    "u": "http://google.com/search?q=!safeoff+{{{s}}}"
   },
   {
     "c": "Online Services",
@@ -74984,7 +74984,7 @@
     "s": "DuckDuckGo Safe Off",
     "sc": "Search (DDG)",
     "t": "nsfw",
-    "u": "https://duckduckgo.com/?q={{{s}}}&kp=-2&ia=web"
+    "u": "https://google.com/search?q={{{s}}}&kp=-2&ia=web"
   },
   {
     "c": "Entertainment",
@@ -75308,7 +75308,7 @@
     "s": "Nvidia",
     "sc": "Companies",
     "t": "nvidia",
-    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Anvidia.com&ia=web"
+    "u": "https://google.com/search?q={{{s}}}+site%3Anvidia.com&ia=web"
   },
   {
     "c": "Online Services",
@@ -75614,7 +75614,7 @@
     "s": "The Oatmeal",
     "sc": "Comics",
     "t": "oatmeal",
-    "u": "https://duckduckgo.com/?q={{{s}}}+site:theoatmeal.com"
+    "u": "https://google.com/search?q={{{s}}}+site:theoatmeal.com"
   },
   {
     "c": "Tech",
@@ -76073,7 +76073,7 @@
     "s": "OpenFrameworks",
     "sc": "Libraries/Frameworks",
     "t": "of",
-    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Ahttp%3A%2F%2Fforum.openframeworks.cc"
+    "u": "https://google.com/search?q={{{s}}}+site%3Ahttp%3A%2F%2Fforum.openframeworks.cc"
   },
   {
     "c": "Entertainment",
@@ -76154,7 +76154,7 @@
     "s": "Omniglot",
     "sc": "Learning",
     "t": "og",
-    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Aomniglot.com"
+    "u": "https://google.com/search?q={{{s}}}+site%3Aomniglot.com"
   },
   {
     "c": "Multimedia",
@@ -77162,7 +77162,7 @@
     "s": "OPAM",
     "sc": "Languages (other)",
     "t": "opam",
-    "u": "http://duckduckgo.com/?q={{{s}}}+site:https://opam.ocaml.org/packages"
+    "u": "http://google.com/search?q={{{s}}}+site:https://opam.ocaml.org/packages"
   },
   {
     "c": "Entertainment",
@@ -77268,7 +77268,7 @@
     "s": "openculture.com",
     "sc": "General",
     "t": "openculture",
-    "u": "https://duckduckgo.com/?q=site%3Aopenculture.com+{{{s}}}"
+    "u": "https://google.com/search?q=site%3Aopenculture.com+{{{s}}}"
   },
   {
     "c": "Tech",
@@ -77916,7 +77916,7 @@
     "s": "Oregon Coast",
     "sc": "Travel",
     "t": "oregon",
-    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Atheoregoncoast.info"
+    "u": "https://google.com/search?q={{{s}}}+site%3Atheoregoncoast.info"
   },
   {
     "c": "Tech",
@@ -77979,7 +77979,7 @@
     "s": "Org Manual",
     "sc": "Languages (other)",
     "t": "org",
-    "u": "https://duckduckgo.com/?q=site:http://orgmode.org/manual/+{{{s}}}"
+    "u": "https://google.com/search?q=site:http://orgmode.org/manual/+{{{s}}}"
   },
   {
     "c": "Research",
@@ -81102,7 +81102,7 @@
     "s": "Phaser 3 API Documentation",
     "sc": "Libraries/Frameworks",
     "t": "phas3r",
-    "u": "https://duckduckgo.com/?q=inurl%3Ahttps%3A%2F%2Fphotonstorm.github.io%2Fphaser3-docs%2F+{{{s}}}#"
+    "u": "https://google.com/search?q=inurl%3Ahttps%3A%2F%2Fphotonstorm.github.io%2Fphaser3-docs%2F+{{{s}}}#"
   },
   {
     "c": "Online Services",
@@ -81309,7 +81309,7 @@
     "s": "phrases.org.uk",
     "sc": "Reference (words)",
     "t": "phrase",
-    "u": "https://duckduckgo.com/?q=site:phrases.org.uk%20{{{s}}}"
+    "u": "https://google.com/search?q=site:phrases.org.uk%20{{{s}}}"
   },
   {
     "c": "Online Services",
@@ -81435,7 +81435,7 @@
     "s": "DuckDuckGo Images",
     "sc": "Search (DDG)",
     "t": "pics",
-    "u": "https://duckduckgo.com/?q={{{s}}}&ia=images&iax=images"
+    "u": "https://google.com/search?q={{{s}}}&ia=images&iax=images"
   },
   {
     "c": "Multimedia",
@@ -81453,7 +81453,7 @@
     "s": "DuckDuckGo Images",
     "sc": "Search (DDG)",
     "t": "pictures",
-    "u": "https://duckduckgo.com/?q={{{s}}}&ia=images&iax=images"
+    "u": "https://google.com/search?q={{{s}}}&ia=images&iax=images"
   },
   {
     "c": "Shopping",
@@ -81723,7 +81723,7 @@
     "s": "Pitchbook",
     "sc": "Startups",
     "t": "pitchbook",
-    "u": "https://duckduckgo.com/?q=site%3Apitchbook.com%2Fprofiles%2Fcompany+{{{s}}}"
+    "u": "https://google.com/search?q=site%3Apitchbook.com%2Fprofiles%2Fcompany+{{{s}}}"
   },
   {
     "c": "Tech",
@@ -82119,7 +82119,7 @@
     "s": "playonlinux",
     "sc": "Games (specific)",
     "t": "playonlinux",
-    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Aplayonlinux.com"
+    "u": "https://google.com/search?q={{{s}}}+site%3Aplayonlinux.com"
   },
   {
     "c": "Online Services",
@@ -82470,7 +82470,7 @@
     "s": "Plena Manlibro de Esperanta Gramatiko",
     "sc": "Search",
     "t": "pmeg",
-    "u": "http://duckduckgo.com/?q={{{s}}}%20site:http://bertilow.com/pmeg/"
+    "u": "http://google.com/search?q={{{s}}}%20site:http://bertilow.com/pmeg/"
   },
   {
     "c": "Tech",
@@ -83764,7 +83764,7 @@
     "s": "powerpoint search",
     "sc": "Search (DDG)",
     "t": "ppt",
-    "u": "https://duckduckgo.com/?q={{{s}}}+filetype%3Appt"
+    "u": "https://google.com/search?q={{{s}}}+filetype%3Appt"
   },
   {
     "c": "Online Services",
@@ -86293,7 +86293,7 @@
     "s": "duckduckgo spain",
     "sc": "Search (DDG)",
     "t": "r-es",
-    "u": "https://duckduckgo.com/?q={{{s}}}&kl=es-es"
+    "u": "https://google.com/search?q={{{s}}}&kl=es-es"
   },
   {
     "c": "Online Services",
@@ -86302,7 +86302,7 @@
     "s": "DuckDuckGo",
     "sc": "Search (non-US)",
     "t": "r-nl",
-    "u": "https://duckduckgo.com/?q={{{s}}}&kl=nl-nl"
+    "u": "https://google.com/search?q={{{s}}}&kl=nl-nl"
   },
   {
     "c": "Online Services",
@@ -86311,7 +86311,7 @@
     "s": "DuckDuckGo UK",
     "sc": "Search (DDG)",
     "t": "r-uk",
-    "u": "https://duckduckgo.com/?q={{{s}}}&kl=uk-en"
+    "u": "https://google.com/search?q={{{s}}}&kl=uk-en"
   },
   {
     "c": "Online Services",
@@ -86320,7 +86320,7 @@
     "s": "DuckDuckGo US",
     "sc": "Search (DDG)",
     "t": "r-us",
-    "u": "https://duckduckgo.com/?q={{{s}}}&kl=us-en"
+    "u": "https://google.com/search?q={{{s}}}&kl=us-en"
   },
   {
     "c": "Entertainment",
@@ -86590,7 +86590,7 @@
     "s": "Ruby on Rails Guides",
     "sc": "Languages (ruby)",
     "t": "railsguides",
-    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Aguides.rubyonrails.org"
+    "u": "https://google.com/search?q={{{s}}}+site%3Aguides.rubyonrails.org"
   },
   {
     "c": "Shopping",
@@ -87481,7 +87481,7 @@
     "s": "DuckDuckGo Last Week",
     "sc": "Search",
     "t": "recent",
-    "u": "http://duckduckgo.com/?q={{{s}}}&df=w"
+    "u": "http://google.com/search?q={{{s}}}&df=w"
   },
   {
     "c": "Entertainment",
@@ -89254,7 +89254,7 @@
     "s": "DuckDuckGo NL region",
     "sc": "Search (DDG)",
     "t": "rnl",
-    "u": "https://duckduckgo.com/?q={{{s}}}&kl=nl-nl"
+    "u": "https://google.com/search?q={{{s}}}&kl=nl-nl"
   },
   {
     "c": "News",
@@ -89740,7 +89740,7 @@
     "s": "Rouxbe",
     "sc": "Misc",
     "t": "rouxbe",
-    "u": "https://duckduckgo.com/?q=site%3Arouxbe.com+{{{s}}}"
+    "u": "https://google.com/search?q=site%3Arouxbe.com+{{{s}}}"
   },
   {
     "c": "Tech",
@@ -91000,7 +91000,7 @@
     "s": "DuckDuckGo Safe Search Off",
     "sc": "Search (DDG)",
     "t": "s-off",
-    "u": "https://duckduckgo.com/?q={{{s}}}&kp=-2"
+    "u": "https://google.com/search?q={{{s}}}&kp=-2"
   },
   {
     "c": "Online Services",
@@ -91009,7 +91009,7 @@
     "s": "DuckDuckGo Safe Search: On",
     "sc": "Search (DDG)",
     "t": "s-on",
-    "u": "https://duckduckgo.com/?q={{{s}}}&kp=1"
+    "u": "https://google.com/search?q={{{s}}}&kp=1"
   },
   {
     "c": "Shopping",
@@ -91108,7 +91108,7 @@
     "s": "Skeptic's Annoated Bible",
     "sc": "Reference (religion)",
     "t": "sab",
-    "u": "https://duckduckgo.com/?q=site%3Askepticsannotatedbible.com+{{{s}}}&ia=web"
+    "u": "https://google.com/search?q=site%3Askepticsannotatedbible.com+{{{s}}}&ia=web"
   },
   {
     "c": "Research",
@@ -91243,7 +91243,7 @@
     "s": "SageMath documentation",
     "sc": "Academic (math/cs)",
     "t": "sage",
-    "u": "https://duckduckgo.com/?q=site%3Adoc.sagemath.org+{{{s}}}"
+    "u": "https://google.com/search?q=site%3Adoc.sagemath.org+{{{s}}}"
   },
   {
     "c": "Shopping",
@@ -91387,7 +91387,7 @@
     "s": "SaltStack Documentation",
     "sc": "Sysadmin",
     "t": "saltstack",
-    "u": "https://duckduckgo.com/?q=site%3Adocs.saltstack.com+{{{s}}}"
+    "u": "https://google.com/search?q=site%3Adocs.saltstack.com+{{{s}}}"
   },
   {
     "c": "Tech",
@@ -91666,7 +91666,7 @@
     "s": "Skeptic's Annotated Quran",
     "sc": "Reference (religion)",
     "t": "saq",
-    "u": "https://duckduckgo.com/?q=site%3Askepticsannotatedbible.com%2Fquran%2F+{{{s}}}&t=ffsb&ia=web"
+    "u": "https://google.com/search?q=site%3Askepticsannotatedbible.com%2Fquran%2F+{{{s}}}&t=ffsb&ia=web"
   },
   {
     "c": "Shopping",
@@ -91900,7 +91900,7 @@
     "s": "Science-Based Medicine",
     "sc": "Health",
     "t": "sbm",
-    "u": "https://duckduckgo.com/?q=site%3Asciencebasedmedicine.org+{{{s}}}"
+    "u": "https://google.com/search?q=site%3Asciencebasedmedicine.org+{{{s}}}"
   },
   {
     "c": "Entertainment",
@@ -92107,7 +92107,7 @@
     "s": "Scaruffi",
     "sc": "Music",
     "t": "scaruffi",
-    "u": "https://duckduckgo.com/?q=site%3Ascaruffi.com+{{{s}}}"
+    "u": "https://google.com/search?q=site%3Ascaruffi.com+{{{s}}}"
   },
   {
     "c": "Research",
@@ -92971,7 +92971,7 @@
     "s": "Reddit DDG Search",
     "sc": "Aggregators",
     "t": "searchr",
-    "u": "http://duckduckgo.com/?q=site:reddit.com+{{{s}}}"
+    "u": "http://google.com/search?q=site:reddit.com+{{{s}}}"
   },
   {
     "c": "Shopping",
@@ -93574,7 +93574,7 @@
     "s": "Serienjunkies.de",
     "sc": "TV",
     "t": "serjunk",
-    "u": "https://duckduckgo.com/?q=site%3Awww.serienjunkies.de+{{{s}}}"
+    "u": "https://google.com/search?q=site%3Awww.serienjunkies.de+{{{s}}}"
   },
   {
     "c": "Tech",
@@ -94762,7 +94762,7 @@
     "s": "DuckDuckGo site: search operator shortcut",
     "sc": "Google",
     "t": "site",
-    "u": "https://duckduckgo.com/?q=site%3A{{{s}}}"
+    "u": "https://google.com/search?q=site%3A{{{s}}}"
   },
   {
     "c": "Online Services",
@@ -94852,7 +94852,7 @@
     "s": "Sociology Job Market Rumors",
     "sc": "Social news/links",
     "t": "sjmr",
-    "u": "https://duckduckgo.com/?q={{{s}}}+site:socjobrumors.com"
+    "u": "https://google.com/search?q={{{s}}}+site:socjobrumors.com"
   },
   {
     "c": "Research",
@@ -94987,7 +94987,7 @@
     "s": "The Skeptic's Dictionary",
     "sc": "Reference",
     "t": "skepdic",
-    "u": "https://duckduckgo.com/?q={{{s}}}+site:skepdic.com"
+    "u": "https://google.com/search?q={{{s}}}+site:skepdic.com"
   },
   {
     "c": "Research",
@@ -94996,7 +94996,7 @@
     "s": "Skeptic's Bible",
     "sc": "Reference (religion)",
     "t": "skepticsbible",
-    "u": "https://duckduckgo.com/?q=site:skepticsannotatedbible.com%20{{{s}}}"
+    "u": "https://google.com/search?q=site:skepticsannotatedbible.com%20{{{s}}}"
   },
   {
     "c": "Research",
@@ -95005,7 +95005,7 @@
     "s": "Skeptic's Annotated Quran",
     "sc": "Reference (religion)",
     "t": "skepticskoran",
-    "u": "https://duckduckgo.com/?q=site%3Askepticsannotatedbible.com%2Fquran%2F+{{{s}}}&ia=web"
+    "u": "https://google.com/search?q=site%3Askepticsannotatedbible.com%2Fquran%2F+{{{s}}}&ia=web"
   },
   {
     "c": "Research",
@@ -95014,7 +95014,7 @@
     "s": "Skeptic's Annotated Quran",
     "sc": "Reference (religion)",
     "t": "skepticsquran",
-    "u": "https://duckduckgo.com/?q=site%3Askepticsannotatedbible.com%2Fquran%2F+{{{s}}}&t=ffsb&ia=web"
+    "u": "https://google.com/search?q=site%3Askepticsannotatedbible.com%2Fquran%2F+{{{s}}}&t=ffsb&ia=web"
   },
   {
     "c": "Research",
@@ -95122,7 +95122,7 @@
     "s": "http://scikit-learn.org/",
     "sc": "Academic (math/cs)",
     "t": "sklearn",
-    "u": "https://duckduckgo.com/?q=site%3Ahttp%3A%2F%2Fscikit-learn.org%2Fstable%2Fmodules%2Fgenerated%2F+{{{s}}}&ia=web"
+    "u": "https://google.com/search?q=site%3Ahttp%3A%2F%2Fscikit-learn.org%2Fstable%2Fmodules%2Fgenerated%2F+{{{s}}}&ia=web"
   },
   {
     "c": "Shopping",
@@ -95194,7 +95194,7 @@
     "s": "Skyscanner",
     "sc": "Search (Real-time)",
     "t": "skyscan",
-    "u": "http://duckduckgo.com/?q={{{s}}}+site:http://www.skyscanner.net"
+    "u": "http://google.com/search?q={{{s}}}+site:http://www.skyscanner.net"
   },
   {
     "c": "Entertainment",
@@ -96427,7 +96427,7 @@
     "s": "Stackoverflow with DuckDuckGo",
     "sc": "Programming",
     "t": "sod",
-    "u": "https://duckduckgo.com/?q=site:stackoverflow.com+{{{s}}}"
+    "u": "https://google.com/search?q=site:stackoverflow.com+{{{s}}}"
   },
   {
     "c": "Tech",
@@ -96454,7 +96454,7 @@
     "s": "DuckDuckGo SafeOff",
     "sc": "Search (DDG)",
     "t": "soff",
-    "u": "https://duckduckgo.com/?kp=-2&q={{{s}}}"
+    "u": "https://google.com/search?kp=-2&q={{{s}}}"
   },
   {
     "c": "Entertainment",
@@ -97424,7 +97424,7 @@
     "s": "SPIP",
     "sc": "Programming",
     "t": "spip",
-    "u": "https://duckduckgo.com/?q={{{s}}}+site:spip.net"
+    "u": "https://google.com/search?q={{{s}}}+site:spip.net"
   },
   {
     "c": "Online Services",
@@ -98072,7 +98072,7 @@
     "s": "SS64",
     "sc": "Languages (other)",
     "t": "ss64",
-    "u": "http://duckduckgo.com/?q={{{s}}}+site:www.ss64.com"
+    "u": "http://google.com/search?q={{{s}}}+site:www.ss64.com"
   },
   {
     "c": "Entertainment",
@@ -98207,7 +98207,7 @@
     "s": "DuckDuckGo Safe Search: Off",
     "sc": "Search (DDG)",
     "t": "ssoff",
-    "u": "https://duckduckgo.com/?q={{{s}}}&kp=-2"
+    "u": "https://google.com/search?q={{{s}}}&kp=-2"
   },
   {
     "c": "Online Services",
@@ -98216,7 +98216,7 @@
     "s": "DuckDuckGo Safe Search: On",
     "sc": "Search (DDG)",
     "t": "sson",
-    "u": "https://duckduckgo.com/?q={{{s}}}&kp=1"
+    "u": "https://google.com/search?q={{{s}}}&kp=1"
   },
   {
     "c": "Tech",
@@ -101753,7 +101753,7 @@
     "s": "Teamsnap",
     "sc": "Social",
     "t": "teamsnap",
-    "u": "http://duckduckgo.com/?q={{{s}}}+site:teamsnap.com"
+    "u": "http://google.com/search?q={{{s}}}+site:teamsnap.com"
   },
   {
     "c": "Research",
@@ -101771,7 +101771,7 @@
     "s": "The Ecological Citizen",
     "sc": "Academic",
     "t": "tec",
-    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Ahttp%3A%2F%2Fwww.ecologicalcitizen.net%2F&ia=web"
+    "u": "https://google.com/search?q={{{s}}}+site%3Ahttp%3A%2F%2Fwww.ecologicalcitizen.net%2F&ia=web"
   },
   {
     "c": "Tech",
@@ -102581,7 +102581,7 @@
     "s": "Google Images",
     "sc": "Google",
     "t": "texture",
-    "u": "https://duckduckgo.com/?q={{{s}}}+texture&iax=images&ia=images"
+    "u": "https://google.com/search?q={{{s}}}+texture&iax=images&ia=images"
   },
   {
     "c": "Entertainment",
@@ -103913,7 +103913,7 @@
     "s": "DuckDuckGo Timer",
     "sc": "Tools",
     "t": "tim",
-    "u": "http://duckduckgo.com/?q=timer+{{{s}}}&ia=answer"
+    "u": "http://google.com/search?q=timer+{{{s}}}&ia=answer"
   },
   {
     "c": "Tech",
@@ -103949,7 +103949,7 @@
     "s": "DuckDuckGo Timer",
     "sc": "Tools",
     "t": "timer",
-    "u": "http://duckduckgo.com/?q=timer+{{{s}}}&ia=answer"
+    "u": "http://google.com/search?q=timer+{{{s}}}&ia=answer"
   },
   {
     "c": "Online Services",
@@ -106194,7 +106194,7 @@
   },
   {
     "c": "Online Services",
-    "d": "google.com",
+    "d": "duckduckgo.com",
     "r": 5,
     "s": "DuckDuckGo TTY",
     "sc": "Search",
@@ -106244,7 +106244,7 @@
     "s": "Technische Universität Chemnitz",
     "sc": "Academic",
     "t": "tuc",
-    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Awww.tu-chemnitz.de"
+    "u": "https://google.com/search?q={{{s}}}+site%3Awww.tu-chemnitz.de"
   },
   {
     "c": "Research",
@@ -106406,7 +106406,7 @@
     "s": "Tutorials Point",
     "sc": "Programming",
     "t": "tupo",
-    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Awww.tutorialspoint.com&ia=web"
+    "u": "https://google.com/search?q={{{s}}}+site%3Awww.tutorialspoint.com&ia=web"
   },
   {
     "c": "Research",
@@ -107169,7 +107169,7 @@
     "s": "TypeScript Lang",
     "sc": "Languages (other)",
     "t": "typescript",
-    "u": "http://duckduckgo.com/?q={{{s}}}+site:www.typescriptlang.org"
+    "u": "http://google.com/search?q={{{s}}}+site:www.typescriptlang.org"
   },
   {
     "c": "Tech",
@@ -107349,7 +107349,7 @@
     "s": "Ubuntu.hu",
     "sc": "Sysadmin (Ubuntu)",
     "t": "ubhu",
-    "u": "https://duckduckgo.com/?q={{{s}}}+site:ubuntu.hu"
+    "u": "https://google.com/search?q={{{s}}}+site:ubuntu.hu"
   },
   {
     "c": "Tech",
@@ -107421,7 +107421,7 @@
     "s": "https://www.ubuntu-fr.org/",
     "sc": "Sysadmin (Ubuntu)",
     "t": "ubufr",
-    "u": "https://duckduckgo.com/?q=site%3Aubuntu-fr.org+{{{s}}}&ia=web"
+    "u": "https://google.com/search?q=site%3Aubuntu-fr.org+{{{s}}}&ia=web"
   },
   {
     "c": "Tech",
@@ -107502,7 +107502,7 @@
     "s": "Ubuntuusers Wiki",
     "sc": "Sysadmin (Ubuntu)",
     "t": "ubuntuwikide",
-    "u": "http://duckduckgo.com/?q=site%3Awiki.ubuntuusers.de+{{{s}}}"
+    "u": "http://google.com/search?q=site%3Awiki.ubuntuusers.de+{{{s}}}"
   },
   {
     "c": "Research",
@@ -107862,7 +107862,7 @@
     "s": "UK Appstore",
     "sc": "Online (marketplace)",
     "t": "ukappstore",
-    "u": "https://duckduckgo.com/?q=site%3Aapps.apple.com%2Fgb%2Fapp%2F+{{{s}}}"
+    "u": "https://google.com/search?q=site%3Aapps.apple.com%2Fgb%2Fapp%2F+{{{s}}}"
   },
   {
     "c": "Entertainment",
@@ -108310,7 +108310,7 @@
     "r": 0,
     "s": "UNHCR",
     "t": "unhcr",
-    "u": "https://duckduckgo.com/?q={{{s}}}+site:http://www.unhcr.org/"
+    "u": "https://google.com/search?q={{{s}}}+site:http://www.unhcr.org/"
   },
   {
     "c": "Tech",
@@ -109498,7 +109498,7 @@
     "s": "Ubuntuusers.de",
     "sc": "Sysadmin (Ubuntu)",
     "t": "uu",
-    "u": "https://duckduckgo.com/?q=site%3Aubuntuusers.de+{{{s}}}"
+    "u": "https://google.com/search?q=site%3Aubuntuusers.de+{{{s}}}"
   },
   {
     "c": "Tech",
@@ -109507,7 +109507,7 @@
     "s": "Ubuntuusers",
     "sc": "Sysadmin (Ubuntu)",
     "t": "uude",
-    "u": "https://duckduckgo.com/?q=site%3Aubuntuusers.de+{{{s}}}"
+    "u": "https://google.com/search?q=site%3Aubuntuusers.de+{{{s}}}"
   },
   {
     "c": "Tech",
@@ -109516,7 +109516,7 @@
     "s": "Ubuntuusers.de Wiki",
     "sc": "Sysadmin (Ubuntu)",
     "t": "uuw",
-    "u": "https://duckduckgo.com/?q=site:wiki.ubuntuusers.de+{{{s}}}"
+    "u": "https://google.com/search?q=site:wiki.ubuntuusers.de+{{{s}}}"
   },
   {
     "c": "Tech",
@@ -109525,7 +109525,7 @@
     "s": "Ubuntu Users Wiki",
     "sc": "Sysadmin (Ubuntu)",
     "t": "uuwiki",
-    "u": "https://duckduckgo.com/?q=site:wiki.ubuntuusers.de+{{{s}}}"
+    "u": "https://google.com/search?q=site:wiki.ubuntuusers.de+{{{s}}}"
   },
   {
     "c": "Online Services",
@@ -109696,7 +109696,7 @@
     "s": "DuckDuckGo video search",
     "sc": "Search (DDG)",
     "t": "v",
-    "u": "https://duckduckgo.com/?q={{{s}}}&ia=videos&iax=videos"
+    "u": "https://google.com/search?q={{{s}}}&ia=videos&iax=videos"
   },
   {
     "c": "Online Services",
@@ -110054,7 +110054,7 @@
     "s": "MS Office VBA Refference",
     "sc": "Languages (other)",
     "t": "vba",
-    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Amsdn.microsoft.com%2Fen-us%2Fvba&t=ffab&ia=web"
+    "u": "https://google.com/search?q={{{s}}}+site%3Amsdn.microsoft.com%2Fen-us%2Fvba&t=ffab&ia=web"
   },
   {
     "c": "Tech",
@@ -110774,7 +110774,7 @@
     "s": "DuckDuckGo video search",
     "sc": "Search (DDG)",
     "t": "video",
-    "u": "https://duckduckgo.com/?q={{{s}}}&ia=videos&iax=videos"
+    "u": "https://google.com/search?q={{{s}}}&ia=videos&iax=videos"
   },
   {
     "c": "Entertainment",
@@ -110828,7 +110828,7 @@
     "s": "DuckDuckGo Videos",
     "sc": "Search (DDG)",
     "t": "videos",
-    "u": "https://duckduckgo.com/?q={{{s}}}&ia=videos&iax=1"
+    "u": "https://google.com/search?q={{{s}}}&ia=videos&iax=1"
   },
   {
     "c": "Multimedia",
@@ -110855,7 +110855,7 @@
     "s": "DuckDuckGo Videos",
     "sc": "Search (DDG)",
     "t": "vids",
-    "u": "https://duckduckgo.com/?q={{{s}}}&ia=videos&iax=videos"
+    "u": "https://google.com/search?q={{{s}}}&ia=videos&iax=videos"
   },
   {
     "c": "Entertainment",
@@ -111053,7 +111053,7 @@
     "s": "Virtus Investment Partners",
     "sc": "Business",
     "t": "virtus",
-    "u": "https://duckduckgo.com/?q=site:virtus.com+{{{s}}}"
+    "u": "https://google.com/search?q=site:virtus.com+{{{s}}}"
   },
   {
     "c": "Online Services",
@@ -111476,7 +111476,7 @@
     "s": "publicvoit",
     "sc": "Blogs",
     "t": "voit",
-    "u": "https://duckduckgo.com/?q={{{s}}}+site%3AKarl-Voit.at&ia=web"
+    "u": "https://google.com/search?q={{{s}}}+site%3AKarl-Voit.at&ia=web"
   },
   {
     "c": "Tech",
@@ -112079,7 +112079,7 @@
     "s": "w3schools.com",
     "sc": "Languages (html)",
     "t": "w3s",
-    "u": "https://duckduckgo.com/?q={{{s}}}+site:w3schools.com"
+    "u": "https://google.com/search?q={{{s}}}+site:w3schools.com"
   },
   {
     "c": "Tech",
@@ -112097,7 +112097,7 @@
     "s": "W3Schools.com",
     "sc": "Search (DDG)",
     "t": "w3schools",
-    "u": "http://duckduckgo.com/?q={{{s}}}+site:w3schools.com"
+    "u": "http://google.com/search?q={{{s}}}+site:w3schools.com"
   },
   {
     "c": "Tech",
@@ -113337,7 +113337,7 @@
     "s": "Webtender",
     "sc": "Search (DDG)",
     "t": "webtender",
-    "u": "http://duckduckgo.com/?q=site%3Awebtender.com+{{{s}}}"
+    "u": "http://google.com/search?q=site%3Awebtender.com+{{{s}}}"
   },
   {
     "c": "Entertainment",
@@ -113427,7 +113427,7 @@
     "s": "DuckDuckGo",
     "sc": "Search (DDG)",
     "t": "week",
-    "u": "https://duckduckgo.com/?q={{{s}}}&df=w"
+    "u": "https://google.com/search?q={{{s}}}&df=w"
   },
   {
     "c": "News",
@@ -113994,7 +113994,7 @@
     "s": "what if?",
     "sc": "Blogs",
     "t": "whatif",
-    "u": "http://duckduckgo.com/?q={{{s}}}+site:what-if.xkcd.com"
+    "u": "http://google.com/search?q={{{s}}}+site:what-if.xkcd.com"
   },
   {
     "c": "Research",
@@ -116145,7 +116145,7 @@
     "s": "Wikinews (all languages)",
     "sc": "Newspaper (intl)",
     "t": "wnall",
-    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Awikinews.org"
+    "u": "https://google.com/search?q={{{s}}}+site%3Awikinews.org"
   },
   {
     "c": "Shopping",
@@ -116649,7 +116649,7 @@
     "s": "RootsWorld",
     "sc": "Audio",
     "t": "worldmusic",
-    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Arootsworld.com%2Crootsworld.org&ia=web"
+    "u": "https://google.com/search?q={{{s}}}+site%3Arootsworld.com%2Crootsworld.org&ia=web"
   },
   {
     "c": "Entertainment",
@@ -118809,7 +118809,7 @@
     "s": "WeChat MiniProgram Developer Document",
     "sc": "Libraries/Frameworks",
     "t": "wxdev",
-    "u": "https://duckduckgo.com/?q={{{s}}}+site:https://developers.weixin.qq.com/miniprogram/dev"
+    "u": "https://google.com/search?q={{{s}}}+site:https://developers.weixin.qq.com/miniprogram/dev"
   },
   {
     "c": "Entertainment",
@@ -119700,7 +119700,7 @@
     "s": "Gabriel Weinberg's Blog",
     "sc": "Blogs",
     "t": "yegg",
-    "u": "https://duckduckgo.com/?q=site%3Ahttp%3A%2F%2Fwww.gabrielweinberg.com%2Fblog+{{{s}}}"
+    "u": "https://google.com/search?q=site%3Ahttp%3A%2F%2Fwww.gabrielweinberg.com%2Fblog+{{{s}}}"
   },
   {
     "c": "Online Services",
@@ -120798,7 +120798,7 @@
     "s": "Yahoo! Weather",
     "sc": "Weather",
     "t": "yw",
-    "u": "https://duckduckgo.com/?q=site%3Aweather.yahoo.com+{{{s}}}"
+    "u": "https://google.com/search?q=site%3Aweather.yahoo.com+{{{s}}}"
   },
   {
     "c": "Online Services",
@@ -121257,7 +121257,7 @@
     "s": "zend framework",
     "sc": "Languages (php)",
     "t": "zf",
-    "u": "https://duckduckgo.com/?q={{{s}}}+site:framework.zend.com"
+    "u": "https://google.com/search?q={{{s}}}+site:framework.zend.com"
   },
   {
     "c": "Tech",
@@ -121581,7 +121581,7 @@
     "s": "Zythom",
     "sc": "Blogs (intl)",
     "t": "zythom",
-    "u": "https://duckduckgo.com/?q=site%3Azythom.blogspot.com+{{{s}}}"
+    "u": "https://google.com/search?q=site%3Azythom.blogspot.com+{{{s}}}"
   },
   {
     "c": "Entertainment",
