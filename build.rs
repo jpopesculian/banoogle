@@ -27,6 +27,7 @@ fn fetch_registry() {
 
     for bang in bangs.iter_mut() {
         if bang.domain == "duckduckgo.com" {
+            bang.domain = "google.com".to_string();
             bang.url = bang.url.replacen("duckduckgo.com", "google.com", 1);
         }
     }
