@@ -26,16 +26,28 @@ fn fetch_registry() {
     bangs.sort_by_key(|b| b.tag.clone());
 
     for bang in bangs.iter_mut() {
-        if bang.domain == "duckduckgo.com" {
+        if bang.domain == "duckduckgo.com" && !bang.title.starts_with("DuckDuckGo") {
             if let Ok(mut url) = url::Url::parse(&bang.url) {
                 if url.path().trim_start_matches('/').is_empty() {
-                    url.set_host(Some("google.com"))
+                    url.set_host(Some("www.google.com"))
                         .expect("Could not set host");
                     url.set_path("search");
                     bang.url = url.to_string();
                     bang.domain = "google.com".to_string();
                 }
             }
+        }
+    }
+
+    let override_bangs: Vec<Bang> = serde_json::from_reader(
+        std::fs::File::open("./assets/registry_override.json")
+            .expect("could not read registry override json"),
+    )
+    .expect("invalid registry json");
+
+    for override_bang in override_bangs {
+        if let Some(item) = bangs.iter_mut().find(|b| b.tag == override_bang.tag) {
+            *item = override_bang
         }
     }
 

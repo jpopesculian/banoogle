@@ -1,0 +1,11 @@
+[
+  {
+    "c": "Online Services",
+    "d": "google.com",
+    "r": 0,
+    "s": "Google Videos",
+    "sc": "Search (Google)",
+    "t": "videos",
+    "u": "https://www.google.com/search?q={{{s}}}&tbm=vid"
+  }
+]
