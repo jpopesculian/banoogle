@@ -41,7 +41,7 @@ fn fetch_registry() {
 
     std::fs::write(
         "./assets/registry.json",
-        serde_json::to_string(&bangs).expect("invalid output json"),
+        serde_json::to_string_pretty(&bangs).expect("invalid output json"),
     )
     .unwrap();
 }
