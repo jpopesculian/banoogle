@@ -16,8 +16,8 @@ RUN ./create_new_db
 
 FROM scratch
 
-COPY --from=builder /usr/src/build/db /db
 COPY --from=builder /usr/src/build/banoogle /banoogle
+COPY --from=builder /usr/src/build/db /db
 
 EXPOSE 3000
 ENTRYPOINT ["/banoogle"]
