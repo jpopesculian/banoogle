@@ -1,4 +1,5 @@
-mod bang;
+mod query;
+mod service;
 
 use axum::{routing::get, Router};
 use std::net::SocketAddr;
@@ -16,7 +17,7 @@ async fn main() {
 
     // build our application with a route
     let app = Router::new()
-        .route("/", get(handler))
+        .route("/", get(service::handler))
         .layer(TraceLayer::new_for_http());
 
     // run it
@@ -26,8 +27,4 @@ async fn main() {
         .serve(app.into_make_service())
         .await
         .unwrap();
-}
-
-async fn handler() -> &'static str {
-    "hello world"
 }

@@ -1,0 +1,1539 @@
+[
+  {
+    "c": "Multimedia",
+    "d": "google.com",
+    "r": 81,
+    "s": "4chan",
+    "sc": "Images",
+    "t": "4chan",
+    "u": "https://www.google.com/search?q={{{s}}}+site%3A4chan.org&t=ffsb"
+  },
+  {
+    "c": "News",
+    "d": "google.com",
+    "r": 0,
+    "s": "Aamulehti",
+    "sc": "Magazine",
+    "t": "aamulehti",
+    "u": "https://www.google.com/search?sites=www.aamulehti.fi&kh=1&q={{{s}}}&ia=web"
+  },
+  {
+    "c": "Entertainment",
+    "d": "google.com",
+    "r": 0,
+    "s": "Adventure Rider",
+    "sc": "Forum",
+    "t": "adv",
+    "u": "https://www.google.com/search?q=site%3Aadvrider.com+{{{s}}}"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 0,
+    "s": "aeris - imirhil.fr",
+    "sc": "Blogs",
+    "t": "aeris",
+    "u": "https://www.google.com/search?q=site%3Aimirhil.fr+{{{s}}}"
+  },
+  {
+    "c": "Multimedia",
+    "d": "google.com",
+    "r": 0,
+    "s": "The Annotated Grateful Dead Lyrics",
+    "sc": "Music (Lyrics)",
+    "t": "agdl",
+    "u": "http://www.google.com/search?q={{{s}}}+site:artsites.ucsc.edu/GDead/agdl/+!"
+  },
+  {
+    "c": "Research",
+    "d": "google.com",
+    "r": 0,
+    "s": "analyse-R",
+    "sc": "Academic",
+    "t": "analyser",
+    "u": "https://www.google.com/search?q={{{s}}}+site%3Ahttp%3A%2F%2Flarmarange.github.io%2Fanalyse-R"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 0,
+    "s": "Angular",
+    "sc": "Libraries/Frameworks",
+    "t": "ang",
+    "u": "https://www.google.com/search?q={{{s}}}+site%3Aangular.io"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 8,
+    "s": "Apache Docs",
+    "sc": "Sysadmin",
+    "t": "apache",
+    "u": "https://www.google.com/search?q={{{s}}}+site%3Ahttps%3A%2F%2Fhttpd.apache.org%2Fdocs%2Fcurrent%2F"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 0,
+    "s": "API Platform",
+    "sc": "Libraries/Frameworks",
+    "t": "apiplatform",
+    "u": "https://www.google.com/search?q={{{s}}}+site%3Aapi-platform.com&t=canonical&ia=web"
+  },
+  {
+    "c": "Entertainment",
+    "d": "google.com",
+    "r": 0,
+    "s": "Apple Trailers",
+    "sc": "Movies",
+    "t": "appletrailer",
+    "u": "http://www.google.com/search?q=site:trailers.apple.com%20{{{s}}}"
+  },
+  {
+    "c": "Entertainment",
+    "d": "google.com",
+    "r": 9,
+    "s": "Apple TV",
+    "sc": "TV",
+    "t": "appletv",
+    "u": "https://www.google.com/search?q={{{s}}}%20site%3Atv.apple.com"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 0,
+    "s": "Arduino Reference",
+    "sc": "Languages (c++)",
+    "t": "arduinoreference",
+    "u": "https://www.google.com/search?q={{{s}}}+site%3Aarduino.cc&ia=web"
+  },
+  {
+    "c": "Online Services",
+    "d": "google.com",
+    "r": 86,
+    "s": "ar15.com",
+    "sc": "Social",
+    "t": "arf",
+    "u": "https://www.google.com/search?q={{{s}}}+site%3Aar15.com&ia=web"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 0,
+    "s": "Asterisk Wiki",
+    "sc": "Sysadmin",
+    "t": "asterisk",
+    "u": "https://www.google.com/search?q={{{s}}}+site%3Awiki.asterisk.org&ia=web"
+  },
+  {
+    "c": "Shopping",
+    "d": "google.com",
+    "r": 0,
+    "s": "Bambali",
+    "sc": "Online (marketplace)",
+    "t": "bambali",
+    "u": "https://www.google.com/search?q=site%3Abambali.net+{{{s}}}"
+  },
+  {
+    "c": "Research",
+    "d": "google.com",
+    "r": 0,
+    "s": "Lycée Louis Bascan",
+    "sc": "Learning",
+    "t": "bascan",
+    "u": "http://www.google.com/search?q={{{s}}}+site:www.lyc-bascan-rambouillet.ac-versailles.fr"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 22,
+    "s": "Bash",
+    "sc": "Programming",
+    "t": "bash",
+    "u": "http://www.google.com/search?q={{{s}}}+site:mywiki.wooledge.org,wiki.bash-hackers.org"
+  },
+  {
+    "c": "Entertainment",
+    "d": "google.com",
+    "r": 0,
+    "s": "Bay12Games",
+    "sc": "Games (offline)",
+    "t": "bay12",
+    "u": "https://www.google.com/search?q={{{s}}}+site%3Abay12games.com"
+  },
+  {
+    "c": "Multimedia",
+    "d": "google.com",
+    "r": 0,
+    "s": "Battle of the Bits",
+    "sc": "Music",
+    "t": "botb",
+    "u": "https://www.google.com/search?q=site%3Abattleofthebits.org+{{{s}}}"
+  },
+  {
+    "c": "Multimedia",
+    "d": "google.com",
+    "r": 0,
+    "s": "BroadSign",
+    "sc": "General",
+    "t": "broadsign",
+    "u": "https://www.google.com/search?q=site%3Abroadsign.com+{{{s}}}"
+  },
+  {
+    "c": "Entertainment",
+    "d": "google.com",
+    "r": 0,
+    "s": "Cool Math Games",
+    "sc": "Games (general)",
+    "t": "coolmath",
+    "u": "https://www.google.com/search?q=site%3Acoolmathgames.com+{{{s}}}&ia=web"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 37,
+    "s": "Curse Forge",
+    "sc": "Downloads (add-ons)",
+    "t": "curseforge",
+    "u": "https://www.google.com/search?q={{{s}}}+site%3Acurseforge.com"
+  },
+  {
+    "c": "Entertainment",
+    "d": "google.com",
+    "r": 3,
+    "s": "Ábrete libro",
+    "sc": "Forum",
+    "t": "dal",
+    "u": "https://www.google.com/search?q={{{s}}}+site:abretelibro.com"
+  },
+  {
+    "c": "Online Services",
+    "d": "google.com",
+    "r": 14,
+    "s": "Duckduckgo Germany",
+    "sc": "Search (DDG)",
+    "t": "dde",
+    "u": "https://www.google.com/search?kl=de-de&q={{{s}}}"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 0,
+    "s": "Dansdeals Forum",
+    "sc": "Blogs",
+    "t": "ddf",
+    "u": "https://www.google.com/search?q={{{s}}}+site%3Aforums.dansdeals.com"
+  },
+  {
+    "c": "Online Services",
+    "d": "google.com",
+    "r": 85,
+    "s": "duckduckgo",
+    "sc": "Search",
+    "t": "ddgde",
+    "u": "https://www.google.com/search?kl=de-de&q={{{s}}}"
+  },
+  {
+    "c": "Research",
+    "d": "google.com",
+    "r": 249,
+    "s": "DuckDuckgo France",
+    "sc": "Reference",
+    "t": "ddgf",
+    "u": "http://www.google.com/search?kl=fr-fr&q={{{s}}}"
+  },
+  {
+    "c": "Research",
+    "d": "google.com",
+    "r": 225,
+    "s": "Reddit search (via DuckDuckGo)",
+    "sc": "Reference (fun)",
+    "t": "ddgr",
+    "u": "https://www.google.com/search?q=site:reddit.com+{{{s}}}"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 0,
+    "s": "DansDeals",
+    "sc": "Blogs",
+    "t": "ddms",
+    "u": "https://www.google.com/search?q=%20{{{s}}}+site%3Adansdeals.com"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 3,
+    "s": "Stack Overflow via DuckDuckGo",
+    "sc": "Programming",
+    "t": "ddso",
+    "u": "https://www.google.com/search?q={{{s}}}+site:stackoverflow.com"
+  },
+  {
+    "c": "Online Services",
+    "d": "google.com",
+    "r": 21,
+    "s": "Daring Fireball",
+    "sc": "Search (DDG)",
+    "t": "df",
+    "u": "https://www.google.com/search?q={{{s}}}+site%3Adaringfireball.net"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 3,
+    "s": "docs.GL for OpenGL 4",
+    "sc": "Libraries/Frameworks",
+    "t": "dgl4",
+    "u": "https://www.google.com/search?q=site%3Adocs.gl%2Fgl4+{{{s}}}"
+  },
+  {
+    "c": "Online Services",
+    "d": "google.com",
+    "r": 4,
+    "s": "DuckDuck",
+    "sc": "Search (DDG)",
+    "t": "diff",
+    "u": "https://www.google.com/search?q=difference+between+{{{s}}}&ia=qa"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 14,
+    "s": "D Programming Language",
+    "sc": "Languages (d)",
+    "t": "dlang",
+    "u": "https://www.google.com/search?q=site%3Adlang.org+{{{s}}}"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 0,
+    "s": "Deb-Multimedia",
+    "sc": "Sysadmin (debian)",
+    "t": "dmo",
+    "u": "https://www.google.com/search?q={{{s}}}+site%3Adeb-multimedia.org%2Fpool%2F"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 0,
+    "s": "Documentation Ubuntu-fr",
+    "sc": "Sysadmin (Ubuntu)",
+    "t": "docubufr",
+    "u": "https://www.google.com/search?q={{{s}}}+site%3Adoc.ubuntu-fr.org"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 0,
+    "s": "PCsoft",
+    "sc": "Programming",
+    "t": "dpcs",
+    "u": "https://www.google.com/search?q={{{s}}}+site:doc.pcsoft.fr&ia=web"
+  },
+  {
+    "c": "Online Services",
+    "d": "google.com",
+    "r": 0,
+    "s": "Duck Duck Go Español",
+    "sc": "Search (DDG)",
+    "t": "duckgoes",
+    "u": "https://www.google.com/search?q={{{s}}}&kp=-1&k5=1&kah=wt-wt&kl=xl-es&kad=es_ES"
+  },
+  {
+    "c": "Online Services",
+    "d": "google.com",
+    "r": 0,
+    "s": "Effective Altruism Forum",
+    "sc": "Social news/links",
+    "t": "eaf",
+    "u": "https://www.google.com/search?q=site%3Ahttp%3A%2F%2Feffective-altruism.com+{{{s}}}"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 0,
+    "s": "ellislab",
+    "sc": "Programming",
+    "t": "ee",
+    "u": "https://www.google.com/search?q=site%3Ahttp%3A%2F%2Fellislab.com%2Fforums%2F+{{{s}}}"
+  },
+  {
+    "c": "Entertainment",
+    "d": "google.com",
+    "r": 10,
+    "s": "Epguides",
+    "sc": "TV",
+    "t": "eg",
+    "u": "http://www.google.com/search?q={{{s}}}+site:epguides.com"
+  },
+  {
+    "c": "Entertainment",
+    "d": "google.com",
+    "r": 0,
+    "s": "Eurogamer forums",
+    "sc": "Games (general)",
+    "t": "egforums",
+    "u": "http://www.google.com/search?q=site:eurogamer.net/forums+{{{s}}}"
+  },
+  {
+    "c": "Online Services",
+    "d": "google.com",
+    "r": 10,
+    "s": "Economics Job Market Rumors",
+    "sc": "Social news/links",
+    "t": "ejmr",
+    "u": "https://www.google.com/search?q={{{s}}}+site%3Aeconjobrumors.com"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 0,
+    "s": "Elixir Documentation",
+    "sc": "Languages (other)",
+    "t": "elixir-docs",
+    "u": "https://www.google.com/search?q=site%3Aelixir-lang.org%2Fdocs+{{{s}}}"
+  },
+  {
+    "c": "Online Services",
+    "d": "google.com",
+    "r": 15,
+    "s": "EmacsWiki",
+    "sc": "Google",
+    "t": "emacs",
+    "u": "https://www.google.com/search?q=site:emacswiki.org+{{{s}}}"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 4,
+    "s": "EmacsWiki.org",
+    "sc": "Programming",
+    "t": "emacswiki",
+    "u": "https://www.google.com/search?q=site:emacswiki.org+{{{s}}}"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 0,
+    "s": "Ember",
+    "sc": "Libraries/Frameworks",
+    "t": "ember",
+    "u": "https://www.google.com/search?q={{{s}}}+site%3Ahttps%3A%2F%2Fapi.emberjs.com"
+  },
+  {
+    "c": "Entertainment",
+    "d": "google.com",
+    "r": 3,
+    "s": "epguides.com",
+    "sc": "TV",
+    "t": "epg",
+    "u": "https://www.google.com/search?q=site%3Aepguides.com+{{{s}}}"
+  },
+  {
+    "c": "News",
+    "d": "google.com",
+    "r": 0,
+    "s": "Equestria Daily",
+    "sc": "Specialty",
+    "t": "equestriadaily",
+    "u": "http://www.google.com/search?q=site:equestriadaily.com+{{{s}}}"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 6,
+    "s": "Erlang Docs",
+    "sc": "Languages (other)",
+    "t": "erlang",
+    "u": "https://www.google.com/search?q=site%3Aerlang.org+{{{s}}}"
+  },
+  {
+    "c": "Online Services",
+    "d": "google.com",
+    "r": 20,
+    "s": "duckduckgo",
+    "sc": "Search (non-US)",
+    "t": "es",
+    "u": "https://www.google.com/search?q={{{s}}}&kl=xl-es&kad=es_ES&ia=about"
+  },
+  {
+    "c": "Entertainment",
+    "d": "google.com",
+    "r": 12,
+    "s": "Entertainment Weekly",
+    "sc": "Movies",
+    "t": "ew",
+    "u": "https://www.google.com/search?q=site%3Aew.com+{{{s}}}"
+  },
+  {
+    "c": "Entertainment",
+    "d": "google.com",
+    "r": 0,
+    "s": "FootballGuys",
+    "sc": "Sports",
+    "t": "fbg",
+    "u": "https://www.google.com/search?q=site%3Afootballguys.com+{{{s}}}"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 10,
+    "s": "FreeCAD",
+    "sc": "Design",
+    "t": "fc",
+    "u": "https://www.google.com/search?q=site%3A+freecadweb.org+{{{s}}}"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 5,
+    "s": "Gentoo Forums",
+    "sc": "Sysadmin (Gentoo)",
+    "t": "fgentoo",
+    "u": "https://www.google.com/search?q=site%3Aforums.gentoo.org+{{{s}}}"
+  },
+  {
+    "c": "Entertainment",
+    "d": "google.com",
+    "r": 0,
+    "s": "https://www.gladyscelticcorner.com",
+    "sc": "Misc",
+    "t": "fiddling",
+    "u": "https://www.google.com/search?q=site%3Agladyscelticcorner.com+{{{s}}}"
+  },
+  {
+    "c": "Shopping",
+    "d": "google.com",
+    "r": 3,
+    "s": "Federation Flags & Flagpoles",
+    "sc": "Online",
+    "t": "flag",
+    "u": "https://www.google.com/search?q=site%3Aflagpoles.com.au+{{{s}}}"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 0,
+    "s": "MartinFowler.com",
+    "sc": "Blogs",
+    "t": "fowler",
+    "u": "https://www.google.com/search?q=site%3Amartinfowler.com+{{{s}}}"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 0,
+    "s": "Forum pcsoft",
+    "sc": "Languages (other)",
+    "t": "fpcs",
+    "u": "https://www.google.com/search?q=site:forum.pcsoft.fr+{{{s}}}"
+  },
+  {
+    "c": "Entertainment",
+    "d": "google.com",
+    "r": 0,
+    "s": "FZ",
+    "sc": "Games (general)",
+    "t": "fz",
+    "u": "https://www.google.com/search?q=site%3Afz.se+{{{s}}}"
+  },
+  {
+    "c": "Entertainment",
+    "d": "google.com",
+    "r": 0,
+    "s": "Ábrete libro",
+    "sc": "Forum",
+    "t": "gal",
+    "u": "https://www.google.com/search?q={{{s}}}+site:abretelibro.com"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 5,
+    "s": "GDB Debugger",
+    "sc": "Programming",
+    "t": "gdb",
+    "u": "http://www.google.com/search?q=site:sourceware.org/gdb/current/onlinedocs/gdb/+{{{s}}}"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 0,
+    "s": "Le blog de Genma",
+    "sc": "Blogs",
+    "t": "genma",
+    "u": "https://www.google.com/search?q={{{s}}}+site%3Ahttp%3A%2F%2Fgenma.free.fr"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 0,
+    "s": "Github User Pages",
+    "sc": "Programming",
+    "t": "ghio",
+    "u": "https://www.google.com/search?q=site%3Agithub.io+{{{s}}}&ia=web"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 6,
+    "s": "golang.org",
+    "sc": "Languages (go)",
+    "t": "gls",
+    "u": "https://www.google.com/search?q=site%3Agolang.org+{{{s}}}"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 12,
+    "s": "Gradle",
+    "sc": "Programming",
+    "t": "gradle",
+    "u": "http://www.google.com/search?q=site%3Agradle.org+{{{s}}}"
+  },
+  {
+    "c": "Entertainment",
+    "d": "google.com",
+    "r": 0,
+    "s": "Le Guide du rôliste galactique",
+    "sc": "Games (specific)",
+    "t": "grog",
+    "u": "https://www.google.com/search?q=site%3Alegrog.org+{{{s}}}"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 0,
+    "s": "Groovy Documentation",
+    "sc": "Programming",
+    "t": "groovy",
+    "u": "https://www.google.com/search?q={{{s}}}+site:docs.groovy-lang.org"
+  },
+  {
+    "c": "News",
+    "d": "google.com",
+    "r": 136,
+    "s": "theguardian.com",
+    "sc": "Newspaper",
+    "t": "gu",
+    "u": "https://www.google.com/search?q=site%3Awww.theguardian.com+{{{s}}}"
+  },
+  {
+    "c": "Online Services",
+    "d": "google.com",
+    "r": 0,
+    "s": "Hard2mano",
+    "sc": "Social",
+    "t": "h2m",
+    "u": "https://www.google.com/search?q={{{s}}}&sites=hard2mano.com"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 0,
+    "s": "Herber",
+    "sc": "Programming",
+    "t": "herber",
+    "u": "https://www.google.com/search?q={{{s}}}+site%3Aherber.de"
+  },
+  {
+    "c": "Research",
+    "d": "google.com",
+    "r": 0,
+    "s": "Forum Hardware.fr",
+    "sc": "Reference",
+    "t": "hfr",
+    "u": "http://www.google.com/search?q=site:linuxfr.org+{{{s}}}"
+  },
+  {
+    "c": "Research",
+    "d": "google.com",
+    "r": 5,
+    "s": "HyperPhysics",
+    "sc": "Reference (science)",
+    "t": "hphys",
+    "u": "https://www.google.com/search?q=site%3Ahyperphysics.phy-astr.gsu.edu+{{{s}}}"
+  },
+  {
+    "c": "Online Services",
+    "d": "google.com",
+    "r": 3,
+    "s": "duckduckgo",
+    "sc": "Search",
+    "t": "ie",
+    "u": "https://www.google.com/search?q=site%3Aie+{{{s}}}"
+  },
+  {
+    "c": "Online Services",
+    "d": "google.com",
+    "r": 4,
+    "s": "DDG images excluding Pinterest",
+    "sc": "Search (DDG)",
+    "t": "inp",
+    "u": "https://www.google.com/search?q=-site%3Apinterest.com+{{{s}}}&iar=images&iax=images&ia=images"
+  },
+  {
+    "c": "Entertainment",
+    "d": "google.com",
+    "r": 14,
+    "s": "iTunes",
+    "sc": "Misc",
+    "t": "itunes",
+    "u": "https://www.google.com/search?q={{{s}}}%20site%3Aitunes.apple.com"
+  },
+  {
+    "c": "Multimedia",
+    "d": "google.com",
+    "r": 0,
+    "s": "iTunes (Spain)",
+    "sc": "Music",
+    "t": "ituneses",
+    "u": "https://www.google.com/search?q={{{s}}}+site%3Aitunes.apple.com%2Fes%2F"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 0,
+    "s": "Joomla! API",
+    "sc": "Languages (php)",
+    "t": "japi",
+    "u": "https://www.google.com/search?q=site%3Aapi.joomla.org+{{{s}}}"
+  },
+  {
+    "c": "Online Services",
+    "d": "google.com",
+    "r": 7,
+    "s": "Jargon File",
+    "sc": "Search (DDG)",
+    "t": "jargon",
+    "u": "https://www.google.com/search?q={{{s}}}+site%3Acatb.org+inurl%3Ajargon"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 92,
+    "s": "Java 11 documentation",
+    "sc": "Languages (java)",
+    "t": "java11",
+    "u": "https://www.google.com/search?q=site%3Adocs.oracle.com%2Fen%2Fjava%2Fjavase%2F11%2Fdocs%2Fapi%2F+{{{s}}}"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 57,
+    "s": "Java 8 Documentation",
+    "sc": "Languages (java)",
+    "t": "java8",
+    "u": "https://www.google.com/search?q=site%3Adocs.oracle.com%2Fjavase%2F8%2Fdocs%2Fapi%2F+{{{s}}}"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 0,
+    "s": "jMonkeyEngine WIki",
+    "sc": "Libraries/Frameworks",
+    "t": "jmew",
+    "u": "https://www.google.com/search?q={{{s}}}%20site:wiki.jmonkeyengine.org"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 0,
+    "s": "Keybase.io",
+    "sc": "Startups",
+    "t": "kb",
+    "u": "http://www.google.com/search?q=site%3Akeybase.io+{{{s}}}"
+  },
+  {
+    "c": "Entertainment",
+    "d": "google.com",
+    "r": 0,
+    "s": "l3utterfish",
+    "sc": "Blogs",
+    "t": "l3u",
+    "u": "https://www.google.com/search?q={{{s}}}+site:l3utterfish.blogspot.com"
+  },
+  {
+    "c": "News",
+    "d": "google.com",
+    "r": 0,
+    "s": "Les-CRIs",
+    "sc": "Business",
+    "t": "lescris",
+    "u": "https://www.google.com/search?q=site%3Ales-cris.com+{{{s}}}"
+  },
+  {
+    "c": "News",
+    "d": "google.com",
+    "r": 0,
+    "s": "LewRockwell.com",
+    "sc": "Specialty",
+    "t": "lewrockwell",
+    "u": "https://www.google.com/search?q=site%3Alewrockwell.com+{{{s}}}"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 0,
+    "s": "LibGDX API",
+    "sc": "Libraries/Frameworks",
+    "t": "libgdx",
+    "u": "https://www.google.com/search?q=site%3Alibgdx.badlogicgames.com+{{{s}}}&t=h&ia=web"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 3,
+    "s": "LinuxFr",
+    "sc": "Blogs",
+    "t": "linuxfr",
+    "u": "https://www.google.com/search?q={{{s}}}+site%3Alinuxfr.org&ia=web"
+  },
+  {
+    "c": "Entertainment",
+    "d": "google.com",
+    "r": 10,
+    "s": "LiveJournal",
+    "sc": "Blogs (intl)",
+    "t": "lj",
+    "u": "http://www.google.com/search?q=site%3Alivejournal.com+{{{s}}}"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 0,
+    "s": "LLVM Compiler Infrastructure",
+    "sc": "Programming",
+    "t": "llvm",
+    "u": "https://www.google.com/search?q=site%3Allvm.org+{{{s}}}"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 0,
+    "s": "LoopbackJS Documentations site",
+    "sc": "Libraries/Frameworks",
+    "t": "loopbackjs",
+    "u": "http://www.google.com/search?q=site:loopback.io/doc/en/lb3+{{{s}}}"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 0,
+    "s": "LinusTechTips Forum",
+    "sc": "Companies",
+    "t": "lttforum",
+    "u": "https://www.google.com/search?q={{{s}}}+site%3Alinustechtips.com"
+  },
+  {
+    "c": "Online Services",
+    "d": "google.com",
+    "r": 0,
+    "s": "Lucire",
+    "sc": "Search (DDG)",
+    "t": "lucire",
+    "u": "https://www.google.com/search?q={{{s}}}+site%3Alucire.com"
+  },
+  {
+    "c": "Online Services",
+    "d": "google.com",
+    "r": 0,
+    "s": "(DuckDuckGo) Agência Lupa Fact-Checking Brasil",
+    "sc": "Tools",
+    "t": "lupa",
+    "u": "https://www.google.com/search?q={{{s}}}+site%3Apiaui.folha.uol.com.br+inurl%3Alupa&ia=web"
+  },
+  {
+    "c": "Online Services",
+    "d": "google.com",
+    "r": 0,
+    "s": "LWJGL",
+    "sc": "Search (DDG)",
+    "t": "lwjgl",
+    "u": "http://www.google.com/search?q={{{s}}}+site:http://lwjgl.org/javadoc/"
+  },
+  {
+    "c": "Research",
+    "d": "google.com",
+    "r": 0,
+    "s": "forums.Bodyrecomposition.com",
+    "sc": "Health",
+    "t": "lyle",
+    "u": "https://www.google.com/search?q={{{s}}}+site:forums.lylemcdonald.com"
+  },
+  {
+    "c": "Multimedia",
+    "d": "google.com",
+    "r": 0,
+    "s": "Lyrical Nonsense",
+    "sc": "Music (Lyrics)",
+    "t": "lyrical",
+    "u": "http://www.google.com/search?q=site%3Alyrical-nonsense.com+{{{s}}}"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 50,
+    "s": "The Linux man-pages project",
+    "sc": "Sysadmin (man)",
+    "t": "man7",
+    "u": "https://www.google.com/search?q={{{s}}}+site%3Aman7.org%2Flinux%2Fman-pages"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 0,
+    "s": "Mac OSX Manual PAge",
+    "sc": "Sysadmin (man)",
+    "t": "manosx",
+    "u": "http://www.google.com/search?q={{{s}}}+site%3Adeveloper.apple.com"
+  },
+  {
+    "c": "Online Services",
+    "d": "google.com",
+    "r": 0,
+    "s": "markosweb",
+    "sc": "Tools (URLs)",
+    "t": "markos",
+    "u": "https://www.google.com/search?q={{{s}}}+site%3Amarkosweb.com"
+  },
+  {
+    "c": "Research",
+    "d": "google.com",
+    "r": 0,
+    "s": "Matlab File Exchange",
+    "sc": "Academic (math/cs)",
+    "t": "mathworks",
+    "u": "http://www.google.com/search?q={{{s}}}+site:mathworks.com"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 3,
+    "s": "Mozilla Developer Network",
+    "sc": "Programming",
+    "t": "mdn.s",
+    "u": "https://www.google.com/search?q={{{s}}}+site%3Adeveloper.mozilla.org"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 0,
+    "s": "Michael Tsai - Blog",
+    "sc": "Blogs",
+    "t": "mjtsai",
+    "u": "https://www.google.com/search?q={{{s}}}&sites=mjtsai.com&ia=web"
+  },
+  {
+    "c": "Entertainment",
+    "d": "google.com",
+    "r": 0,
+    "s": "MobileRead",
+    "sc": "Forum",
+    "t": "more",
+    "u": "https://www.google.com/search?q=site:https://www.mobileread.com%20{{{s}}}"
+  },
+  {
+    "c": "Multimedia",
+    "d": "google.com",
+    "r": 3,
+    "s": "MuseScore (DuckDuckGo search)",
+    "sc": "Docs",
+    "t": "mscore",
+    "u": "https://www.google.com/search?q=site%3Amusescore.org+{{{s}}}&ia=web"
+  },
+  {
+    "c": "Entertainment",
+    "d": "google.com",
+    "r": 0,
+    "s": "MusicWeb International",
+    "sc": "Audio",
+    "t": "mwi",
+    "u": "https://www.google.com/search?q={{{s}}}+site%3Amusicweb-international.com"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 32,
+    "s": "Node.js Documentation",
+    "sc": "Languages (javascript)",
+    "t": "nodejs",
+    "u": "https://www.google.com/search?q=!node+{{{s}}}"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 5,
+    "s": "Nvidia",
+    "sc": "Companies",
+    "t": "nvidia",
+    "u": "https://www.google.com/search?q={{{s}}}+site%3Anvidia.com&ia=web"
+  },
+  {
+    "c": "Entertainment",
+    "d": "google.com",
+    "r": 0,
+    "s": "The Oatmeal",
+    "sc": "Comics",
+    "t": "oatmeal",
+    "u": "https://www.google.com/search?q={{{s}}}+site:theoatmeal.com"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 4,
+    "s": "OpenFrameworks",
+    "sc": "Libraries/Frameworks",
+    "t": "of",
+    "u": "https://www.google.com/search?q={{{s}}}+site%3Ahttp%3A%2F%2Fforum.openframeworks.cc"
+  },
+  {
+    "c": "Research",
+    "d": "google.com",
+    "r": 16,
+    "s": "Omniglot",
+    "sc": "Learning",
+    "t": "og",
+    "u": "https://www.google.com/search?q={{{s}}}+site%3Aomniglot.com"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 7,
+    "s": "OPAM",
+    "sc": "Languages (other)",
+    "t": "opam",
+    "u": "http://www.google.com/search?q={{{s}}}+site:https://opam.ocaml.org/packages"
+  },
+  {
+    "c": "Multimedia",
+    "d": "google.com",
+    "r": 0,
+    "s": "openculture.com",
+    "sc": "General",
+    "t": "openculture",
+    "u": "https://www.google.com/search?q=site%3Aopenculture.com+{{{s}}}"
+  },
+  {
+    "c": "Research",
+    "d": "google.com",
+    "r": 0,
+    "s": "Oregon Coast",
+    "sc": "Travel",
+    "t": "oregon",
+    "u": "https://www.google.com/search?q={{{s}}}+site%3Atheoregoncoast.info"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 0,
+    "s": "Org Manual",
+    "sc": "Languages (other)",
+    "t": "org",
+    "u": "https://www.google.com/search?q=site:http://orgmode.org/manual/+{{{s}}}"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 0,
+    "s": "Phaser 3 API Documentation",
+    "sc": "Libraries/Frameworks",
+    "t": "phas3r",
+    "u": "https://www.google.com/search?q=inurl%3Ahttps%3A%2F%2Fphotonstorm.github.io%2Fphaser3-docs%2F+{{{s}}}#"
+  },
+  {
+    "c": "Research",
+    "d": "google.com",
+    "r": 3,
+    "s": "phrases.org.uk",
+    "sc": "Reference (words)",
+    "t": "phrase",
+    "u": "https://www.google.com/search?q=site:phrases.org.uk%20{{{s}}}"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 0,
+    "s": "Pitchbook",
+    "sc": "Startups",
+    "t": "pitchbook",
+    "u": "https://www.google.com/search?q=site%3Apitchbook.com%2Fprofiles%2Fcompany+{{{s}}}"
+  },
+  {
+    "c": "Entertainment",
+    "d": "google.com",
+    "r": 0,
+    "s": "playonlinux",
+    "sc": "Games (specific)",
+    "t": "playonlinux",
+    "u": "https://www.google.com/search?q={{{s}}}+site%3Aplayonlinux.com"
+  },
+  {
+    "c": "Online Services",
+    "d": "google.com",
+    "r": 6,
+    "s": "Plena Manlibro de Esperanta Gramatiko",
+    "sc": "Search",
+    "t": "pmeg",
+    "u": "http://www.google.com/search?q={{{s}}}%20site:http://bertilow.com/pmeg/"
+  },
+  {
+    "c": "Online Services",
+    "d": "google.com",
+    "r": 0,
+    "s": "powerpoint search",
+    "sc": "Search (DDG)",
+    "t": "ppt",
+    "u": "https://www.google.com/search?q={{{s}}}+filetype%3Appt"
+  },
+  {
+    "c": "Online Services",
+    "d": "google.com",
+    "r": 10,
+    "s": "duckduckgo spain",
+    "sc": "Search (DDG)",
+    "t": "r-es",
+    "u": "https://www.google.com/search?q={{{s}}}&kl=es-es"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 3,
+    "s": "Ruby on Rails Guides",
+    "sc": "Languages (ruby)",
+    "t": "railsguides",
+    "u": "https://www.google.com/search?q={{{s}}}+site%3Aguides.rubyonrails.org"
+  },
+  {
+    "c": "Entertainment",
+    "d": "google.com",
+    "r": 0,
+    "s": "Rouxbe",
+    "sc": "Misc",
+    "t": "rouxbe",
+    "u": "https://www.google.com/search?q=site%3Arouxbe.com+{{{s}}}"
+  },
+  {
+    "c": "Research",
+    "d": "google.com",
+    "r": 0,
+    "s": "Skeptic's Annoated Bible",
+    "sc": "Reference (religion)",
+    "t": "sab",
+    "u": "https://www.google.com/search?q=site%3Askepticsannotatedbible.com+{{{s}}}&ia=web"
+  },
+  {
+    "c": "Research",
+    "d": "google.com",
+    "r": 5,
+    "s": "SageMath documentation",
+    "sc": "Academic (math/cs)",
+    "t": "sage",
+    "u": "https://www.google.com/search?q=site%3Adoc.sagemath.org+{{{s}}}"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 0,
+    "s": "SaltStack Documentation",
+    "sc": "Sysadmin",
+    "t": "saltstack",
+    "u": "https://www.google.com/search?q=site%3Adocs.saltstack.com+{{{s}}}"
+  },
+  {
+    "c": "Research",
+    "d": "google.com",
+    "r": 0,
+    "s": "Skeptic's Annotated Quran",
+    "sc": "Reference (religion)",
+    "t": "saq",
+    "u": "https://www.google.com/search?q=site%3Askepticsannotatedbible.com%2Fquran%2F+{{{s}}}&t=ffsb&ia=web"
+  },
+  {
+    "c": "Research",
+    "d": "google.com",
+    "r": 0,
+    "s": "Science-Based Medicine",
+    "sc": "Health",
+    "t": "sbm",
+    "u": "https://www.google.com/search?q=site%3Asciencebasedmedicine.org+{{{s}}}"
+  },
+  {
+    "c": "Multimedia",
+    "d": "google.com",
+    "r": 11,
+    "s": "Scaruffi",
+    "sc": "Music",
+    "t": "scaruffi",
+    "u": "https://www.google.com/search?q=site%3Ascaruffi.com+{{{s}}}"
+  },
+  {
+    "c": "News",
+    "d": "google.com",
+    "r": 143,
+    "s": "Reddit DDG Search",
+    "sc": "Aggregators",
+    "t": "searchr",
+    "u": "http://www.google.com/search?q=site:reddit.com+{{{s}}}"
+  },
+  {
+    "c": "Entertainment",
+    "d": "google.com",
+    "r": 0,
+    "s": "Serienjunkies.de",
+    "sc": "TV",
+    "t": "serjunk",
+    "u": "https://www.google.com/search?q=site%3Awww.serienjunkies.de+{{{s}}}"
+  },
+  {
+    "c": "Online Services",
+    "d": "google.com",
+    "r": 0,
+    "s": "Sociology Job Market Rumors",
+    "sc": "Social news/links",
+    "t": "sjmr",
+    "u": "https://www.google.com/search?q={{{s}}}+site:socjobrumors.com"
+  },
+  {
+    "c": "Research",
+    "d": "google.com",
+    "r": 0,
+    "s": "The Skeptic's Dictionary",
+    "sc": "Reference",
+    "t": "skepdic",
+    "u": "https://www.google.com/search?q={{{s}}}+site:skepdic.com"
+  },
+  {
+    "c": "Research",
+    "d": "google.com",
+    "r": 0,
+    "s": "Skeptic's Bible",
+    "sc": "Reference (religion)",
+    "t": "skepticsbible",
+    "u": "https://www.google.com/search?q=site:skepticsannotatedbible.com%20{{{s}}}"
+  },
+  {
+    "c": "Research",
+    "d": "google.com",
+    "r": 0,
+    "s": "Skeptic's Annotated Quran",
+    "sc": "Reference (religion)",
+    "t": "skepticskoran",
+    "u": "https://www.google.com/search?q=site%3Askepticsannotatedbible.com%2Fquran%2F+{{{s}}}&ia=web"
+  },
+  {
+    "c": "Research",
+    "d": "google.com",
+    "r": 0,
+    "s": "Skeptic's Annotated Quran",
+    "sc": "Reference (religion)",
+    "t": "skepticsquran",
+    "u": "https://www.google.com/search?q=site%3Askepticsannotatedbible.com%2Fquran%2F+{{{s}}}&t=ffsb&ia=web"
+  },
+  {
+    "c": "Research",
+    "d": "google.com",
+    "r": 11,
+    "s": "http://scikit-learn.org/",
+    "sc": "Academic (math/cs)",
+    "t": "sklearn",
+    "u": "https://www.google.com/search?q=site%3Ahttp%3A%2F%2Fscikit-learn.org%2Fstable%2Fmodules%2Fgenerated%2F+{{{s}}}&ia=web"
+  },
+  {
+    "c": "Online Services",
+    "d": "google.com",
+    "r": 4,
+    "s": "Skyscanner",
+    "sc": "Search (Real-time)",
+    "t": "skyscan",
+    "u": "http://www.google.com/search?q={{{s}}}+site:http://www.skyscanner.net"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 115,
+    "s": "Stackoverflow with DuckDuckGo",
+    "sc": "Programming",
+    "t": "sod",
+    "u": "https://www.google.com/search?q=site:stackoverflow.com+{{{s}}}"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 0,
+    "s": "SPIP",
+    "sc": "Programming",
+    "t": "spip",
+    "u": "https://www.google.com/search?q={{{s}}}+site:spip.net"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 7,
+    "s": "SS64",
+    "sc": "Languages (other)",
+    "t": "ss64",
+    "u": "http://www.google.com/search?q={{{s}}}+site:www.ss64.com"
+  },
+  {
+    "c": "Online Services",
+    "d": "google.com",
+    "r": 0,
+    "s": "Teamsnap",
+    "sc": "Social",
+    "t": "teamsnap",
+    "u": "http://www.google.com/search?q={{{s}}}+site:teamsnap.com"
+  },
+  {
+    "c": "Research",
+    "d": "google.com",
+    "r": 0,
+    "s": "The Ecological Citizen",
+    "sc": "Academic",
+    "t": "tec",
+    "u": "https://www.google.com/search?q={{{s}}}+site%3Ahttp%3A%2F%2Fwww.ecologicalcitizen.net%2F&ia=web"
+  },
+  {
+    "c": "Online Services",
+    "d": "google.com",
+    "r": 0,
+    "s": "Google Images",
+    "sc": "Google",
+    "t": "texture",
+    "u": "https://www.google.com/search?q={{{s}}}+texture&iax=images&ia=images"
+  },
+  {
+    "c": "Research",
+    "d": "google.com",
+    "r": 0,
+    "s": "Technische Universität Chemnitz",
+    "sc": "Academic",
+    "t": "tuc",
+    "u": "https://www.google.com/search?q={{{s}}}+site%3Awww.tu-chemnitz.de"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 5,
+    "s": "Tutorials Point",
+    "sc": "Programming",
+    "t": "tupo",
+    "u": "https://www.google.com/search?q={{{s}}}+site%3Awww.tutorialspoint.com&ia=web"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 20,
+    "s": "TypeScript Lang",
+    "sc": "Languages (other)",
+    "t": "typescript",
+    "u": "http://www.google.com/search?q={{{s}}}+site:www.typescriptlang.org"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 0,
+    "s": "Ubuntu.hu",
+    "sc": "Sysadmin (Ubuntu)",
+    "t": "ubhu",
+    "u": "https://www.google.com/search?q={{{s}}}+site:ubuntu.hu"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 0,
+    "s": "https://www.ubuntu-fr.org/",
+    "sc": "Sysadmin (Ubuntu)",
+    "t": "ubufr",
+    "u": "https://www.google.com/search?q=site%3Aubuntu-fr.org+{{{s}}}&ia=web"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 4,
+    "s": "Ubuntuusers Wiki",
+    "sc": "Sysadmin (Ubuntu)",
+    "t": "ubuntuwikide",
+    "u": "http://www.google.com/search?q=site%3Awiki.ubuntuusers.de+{{{s}}}"
+  },
+  {
+    "c": "Shopping",
+    "d": "google.com",
+    "r": 0,
+    "s": "UK Appstore",
+    "sc": "Online (marketplace)",
+    "t": "ukappstore",
+    "u": "https://www.google.com/search?q=site%3Aapps.apple.com%2Fgb%2Fapp%2F+{{{s}}}"
+  },
+  {
+    "d": "google.com",
+    "r": 0,
+    "s": "UNHCR",
+    "t": "unhcr",
+    "u": "https://www.google.com/search?q={{{s}}}+site:http://www.unhcr.org/"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 43,
+    "s": "Ubuntuusers.de",
+    "sc": "Sysadmin (Ubuntu)",
+    "t": "uu",
+    "u": "https://www.google.com/search?q=site%3Aubuntuusers.de+{{{s}}}"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 0,
+    "s": "Ubuntuusers",
+    "sc": "Sysadmin (Ubuntu)",
+    "t": "uude",
+    "u": "https://www.google.com/search?q=site%3Aubuntuusers.de+{{{s}}}"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 43,
+    "s": "Ubuntuusers.de Wiki",
+    "sc": "Sysadmin (Ubuntu)",
+    "t": "uuw",
+    "u": "https://www.google.com/search?q=site:wiki.ubuntuusers.de+{{{s}}}"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 0,
+    "s": "Ubuntu Users Wiki",
+    "sc": "Sysadmin (Ubuntu)",
+    "t": "uuwiki",
+    "u": "https://www.google.com/search?q=site:wiki.ubuntuusers.de+{{{s}}}"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 0,
+    "s": "MS Office VBA Refference",
+    "sc": "Languages (other)",
+    "t": "vba",
+    "u": "https://www.google.com/search?q={{{s}}}+site%3Amsdn.microsoft.com%2Fen-us%2Fvba&t=ffab&ia=web"
+  },
+  {
+    "c": "News",
+    "d": "google.com",
+    "r": 0,
+    "s": "Virtus Investment Partners",
+    "sc": "Business",
+    "t": "virtus",
+    "u": "https://www.google.com/search?q=site:virtus.com+{{{s}}}"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 0,
+    "s": "publicvoit",
+    "sc": "Blogs",
+    "t": "voit",
+    "u": "https://www.google.com/search?q={{{s}}}+site%3AKarl-Voit.at&ia=web"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 41,
+    "s": "w3schools.com",
+    "sc": "Languages (html)",
+    "t": "w3s",
+    "u": "https://www.google.com/search?q={{{s}}}+site:w3schools.com"
+  },
+  {
+    "c": "Online Services",
+    "d": "google.com",
+    "r": 14,
+    "s": "W3Schools.com",
+    "sc": "Search (DDG)",
+    "t": "w3schools",
+    "u": "http://www.google.com/search?q={{{s}}}+site:w3schools.com"
+  },
+  {
+    "c": "Online Services",
+    "d": "google.com",
+    "r": 0,
+    "s": "Webtender",
+    "sc": "Search (DDG)",
+    "t": "webtender",
+    "u": "http://www.google.com/search?q=site%3Awebtender.com+{{{s}}}"
+  },
+  {
+    "c": "Entertainment",
+    "d": "google.com",
+    "r": 0,
+    "s": "what if?",
+    "sc": "Blogs",
+    "t": "whatif",
+    "u": "http://www.google.com/search?q={{{s}}}+site:what-if.xkcd.com"
+  },
+  {
+    "c": "News",
+    "d": "google.com",
+    "r": 0,
+    "s": "Wikinews (all languages)",
+    "sc": "Newspaper (intl)",
+    "t": "wnall",
+    "u": "https://www.google.com/search?q={{{s}}}+site%3Awikinews.org"
+  },
+  {
+    "c": "Entertainment",
+    "d": "google.com",
+    "r": 0,
+    "s": "RootsWorld",
+    "sc": "Audio",
+    "t": "worldmusic",
+    "u": "https://www.google.com/search?q={{{s}}}+site%3Arootsworld.com%2Crootsworld.org&ia=web"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 0,
+    "s": "WeChat MiniProgram Developer Document",
+    "sc": "Libraries/Frameworks",
+    "t": "wxdev",
+    "u": "https://www.google.com/search?q={{{s}}}+site:https://developers.weixin.qq.com/miniprogram/dev"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 0,
+    "s": "Gabriel Weinberg's Blog",
+    "sc": "Blogs",
+    "t": "yegg",
+    "u": "https://www.google.com/search?q=site%3Ahttp%3A%2F%2Fwww.gabrielweinberg.com%2Fblog+{{{s}}}"
+  },
+  {
+    "c": "News",
+    "d": "google.com",
+    "r": 20,
+    "s": "Yahoo! Weather",
+    "sc": "Weather",
+    "t": "yw",
+    "u": "https://www.google.com/search?q=site%3Aweather.yahoo.com+{{{s}}}"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 0,
+    "s": "zend framework",
+    "sc": "Languages (php)",
+    "t": "zf",
+    "u": "https://www.google.com/search?q={{{s}}}+site:framework.zend.com"
+  },
+  {
+    "c": "Tech",
+    "d": "google.com",
+    "r": 0,
+    "s": "Zythom",
+    "sc": "Blogs (intl)",
+    "t": "zythom",
+    "u": "https://www.google.com/search?q=site%3Azythom.blogspot.com+{{{s}}}"
+  }
+]
