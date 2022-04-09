@@ -36,6 +36,25 @@ pub struct PercentDecode<'a> {
     pub bytes: std::slice::Iter<'a, u8>,
 }
 
+impl<'a> PercentDecode<'a> {
+    pub fn peek(&self) -> Option<&u8> {
+        self.bytes.as_slice().get(0)
+    }
+
+    pub fn consume_while<P>(&mut self, predicate: P)
+    where
+        P: Fn(u8) -> bool,
+    {
+        while let Some(next) = self.peek() {
+            if predicate(*next) {
+                self.next();
+            } else {
+                break;
+            }
+        }
+    }
+}
+
 fn after_percent_sign(iter: &mut std::slice::Iter<u8>) -> Option<u8> {
     let mut cloned_iter = iter.clone();
     let h = char::from(*cloned_iter.next()?).to_digit(16)?;

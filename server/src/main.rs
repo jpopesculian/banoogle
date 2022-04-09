@@ -1,7 +1,8 @@
 mod query;
 mod service;
 
-use axum::{routing::get, Router};
+use axum::extract::Extension;
+use axum::routing::{get, Router};
 use std::net::SocketAddr;
 use tower_http::trace::TraceLayer;
 use tracing_subscriber::{layer::SubscriberExt, util::SubscriberInitExt};
@@ -15,9 +16,12 @@ async fn main() {
         .with(tracing_subscriber::fmt::layer())
         .init();
 
+    let db = sled::open("./db").expect("could not open db at ./db");
+
     // build our application with a route
     let app = Router::new()
         .route("/", get(service::handler))
+        .layer(Extension(db))
         .layer(TraceLayer::new_for_http());
 
     // run it
