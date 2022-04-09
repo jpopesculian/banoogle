@@ -1,0 +1,86 @@
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: banoogle
+  labels:
+    app: banoogle
+spec:
+  selector:
+    matchLabels:
+      app: banoogle
+  replicas: 2
+  minReadySeconds: 15
+  strategy:
+    type: RollingUpdate
+    rollingUpdate:
+      maxUnavailable: 1
+      maxSurge: 1
+  template:
+    metadata:
+      labels:
+        app: banoogle
+    spec:
+      containers:
+        - image: jpopesculian/banoogle
+          imagePullPolicy: Always
+          name: banoogle
+          ports:
+            - containerPort: 3000
+          resources:
+            limits:
+              cpu: "500m"
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: banoogle
+spec:
+  type: NodePort
+  ports:
+  - port: 80
+    protocol: TCP
+    targetPort: 3000
+  selector:
+    app: banoogle
+
+---
+apiVersion: autoscaling/v1
+kind: HorizontalPodAutoscaler
+metadata:
+  name: banoogle
+spec:
+  scaleTargetRef:
+    apiVersion: apps/v1
+    kind: Deployment
+    name: banoogle
+  minReplicas: 1
+  maxReplicas: 10
+  targetCPUUtilizationPercentage: 50
+
+---
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  annotations:
+    kubernetes.io/ingress.class: nginx
+    nginx.ingress.kubernetes.io/rewrite-target: /$1
+    cert-manager.io/cluster-issuer: letsencrypt-prod
+  name: ingress
+spec:
+  rules:
+  - host: banoogle.com
+    http:
+      paths:
+      - backend:
+          service:
+            name: banoogle
+            port:
+              number: 80
+        path: /search
+        pathType: Prefix
+  tls:
+  - hosts:
+    - banoogle.com
+    secretName: banoogle-cert
